@@ -2,15 +2,40 @@
 
 This project analyzes retail order data and asks a Groq-hosted language model to turn the results into a short, structured report. It uses a LangGraph workflow to connect data analysis, report writing, and a sentence-count validation loop.
 
-## How It Works
+## Architecture
 
-`main.py` builds and runs a graph with three nodes:
+This is one LangGraph agent composed of three specialized nodes, not a group of independent agents. `main.py` orchestrates the graph and calls the Groq language model; `tools.py` performs the deterministic pandas analysis. The graph passes results between nodes through a shared `AgentState`:
 
-1. **Analyzer** calls `retail_analyzer("test_data.csv")` from `tools.py` and stores the calculated metrics in the graph state.
-2. **Writer** sends those metrics to the Groq chat model `llama-3.3-70b-versatile`, requesting sections Q1 through Q5 and exactly three sentences in Q5.
-3. **Validator** counts periods in the text after `Q5:`. If the count is not three, the graph asks the writer to try again. It stops when the count is three or after three writing attempts.
+- `analysis_data` holds the metrics returned by the analyzer.
+- `report` holds the latest model response.
+- `sentence_count` holds the validator's count of periods after `Q5:`.
+- `iterations` tracks how many times the writer has run.
 
-The final model response is written to `Agent47.txt`, replacing the file each time the program runs. The generated file is ignored by Git.
+### Node Responsibilities
+
+- **Analyzer (`analyze_data_node`)** calls `retail_analyzer("test_data.csv")`. It returns the calculated Q1-Q4 metrics and summary statistics for the writer.
+- **Retail analysis tool (`retail_analyzer` in `tools.py`)** reads and cleans the CSV, calculates revenue, delivery-time averages, data-quality counts, and return rates. It does not call the language model.
+- **Writer (`write_report_node`)** formats the analyzer output as Q1-Q5 using `llama-3.3-70b-versatile` through `ChatGroq`. Its prompt requests exactly three sentences in Q5, and each run increments `iterations`.
+- **Validator (`validate_node`)** counts periods in the text after the last `Q5:` marker and records the result in `sentence_count`.
+- **Router (`should_continue`)** ends the graph when Q5 has exactly three periods or the writer has run three times. Otherwise, it sends the state back to the writer.
+- **Output step (`__main__` in `main.py`)** runs the compiled graph and writes the final response to `Agent47.txt`, replacing the file on each run. This generated file is ignored by Git.
+
+## Project Flow
+
+```mermaid
+flowchart TD
+	start([Start]) --> state[Initialize AgentState]
+	state --> analyzer[Analyzer node]
+	analyzer --> tool[retail_analyzer reads test_data.csv and calculates metrics]
+	tool --> writer[Writer node calls Groq and drafts Q1-Q5]
+	writer --> validator[Validator counts periods after Q5]
+	validator --> route{Exactly 3 periods or 3 attempts reached?}
+	route -->|No| writer
+	route -->|Yes| finish([Graph ends])
+	finish --> output[main.py writes Agent47.txt]
+```
+
+At runtime, the initial state starts with empty analysis/report values and a zero sentence count. Each node returns only the state fields it updates, and LangGraph carries those updates forward. If validation fails before the third attempt, the writer runs again with the analysis data. The prompt is unchanged on retries; the validator's count is not included as feedback. The graph stops after the third writer run even if the sentence check still fails.
 
 ## Analysis
 
@@ -49,7 +74,7 @@ Set `GROQ_API_KEY` in `.env` to your own key. Keep that file private; it is excl
 python main.py
 ```
 
-The report is written to `Agent47.txt` in the current project directory and also printed with a completion message in the terminal.
+The report is written to `Agent47.txt` in the current project directory. The program then prints a completion message in the terminal.
 
 ## Data and Limitations
 
