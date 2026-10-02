@@ -1,0 +1,1501 @@
+order_id,date,product_category,product_name,quantity,unit_price,discount_percent,customer_region,payment_method,delivery_days,return_status
+ORD-04511,2023-05-21,Books,Data Science Workbook,,2255.41,33.88,West,Net Banking,2.0,Pending
+ORD-04353,,Sports,Football,19.0,"₹2,042.58",,,Debit Card,1.0,Returned
+ORD-00144,26/09/2023,Home & Kitchen,Water Bottle,8.0,396.9,27.8,North,Credit Card,5.0,Not Returned
+ORD-02622,07/10/2024,Electronics,Smartphone Charger,,13028.71,36.32,North,Cash on Delivery,9.0,Not Returned
+ORD-03821,13/02/2024,Clothing,Sports Socks,,,16.79,Central,Credit Card,11.0,Not Returned
+ORD-03112,18/02/2023,Sports,Yoga Mat,6.0,7337.43,21.15,,Credit Card,10.0,Not Returned
+ORD-03566,2024-04-14,Electronics,Wireless Earbuds,11.0,433.62,0.26,East,Net Banking,12.0,Not Returned
+ORD-01299,2023-02-07,Books,Fantasy Novel,,5693.31,-12.64,East,Net Banking,12.0,Not Returned
+ORD-02563,19/03/2023,Beauty,,5.0,1466.99,6.85,South,Net Banking,14.0,
+ORD-03471,2023-06-18,Electronics,Noise Cancelling Headphones,8.0,8747.49,31.16,West,Net Banking,2.0,
+ORD-00573,12/04/2023,Groceries,Olive Oil,1.0,8307.46,34.93,,Debit Card,11.0,Not Returned
+ORD-00962,,Beauty,Face Cleanser,9.0,1677.93,0.37,West,,4.0,Not Returned
+ORD-03546,2023-07-18,Electronics,Wireless Earbuds,2.0,9916.61,-12.5,West,Net Banking,13.0,Not Returned
+ORD-02534,2023-08-01,Beauty,,14.0,12768.78,12.53,West,,11.0,Not Returned
+ORD-03670,2024-09-20,Electronics,USB-C Cable,3.0,15000.0,26.87,South,Cash on Delivery,15.0,Pending
+ORD-01984,2023-03-31,Sports,Dumbbell Set,12.0,₹ 14479.65,24.35,,Debit Card,12.0,Not Returned
+ORD-01967,2024-02-15,Books,Machine Learning Handbook,7.0,2891.59,11.63,South,Debit Card,15.0,Pending
+ORD-04130,2023-03-30,,Noise Cancelling Headphones,9.0,2786.0,,West,,5.0,Not Returned
+ORD-00324,2023-11-04,Sports,Yoga Mat,8.0,11046.92,13.6,,,,
+ORD-03057,2023-08-28,Home & Kitchen,Water Bottle,9.0,,-11.28,Central,Credit Card,2.0,Not Returned
+ORD-03806,2024-01-01,Sports,Football,12.0,,38.65,South,Debit Card,,
+ORD-02115,2023-07-21,Sports,Dumbbell Set,3.0,,27.46,East,UPI,12.0,Pending
+ORD-02882,2024-12-29,Sports,Tennis Racquet,,9604.47,19.12,West,Credit Card,4.0,Not Returned
+ORD-03387,26/10/2023,Beauty,Hair Serum,9.0,7168.64,-2.6,North,UPI,11.0,Not Returned
+ORD-00294,2024-08-06,Clothing,Sports Socks,12.0,6689.8,20.78,North,,1.0,
+ORD-00014,2024-09-19,Beauty,Face Cleanser,13.0,4787.62,26.26,West,UPI,1.0,
+ORD-02394,27/01/2023,Clothing,Sports Socks,2.0,,29.09,East,Debit Card,8.0,Not Returned
+ORD-01401,30/03/2024,Beauty,Nail Polish Set,15.0,7183.08,24.18,East,UPI,13.0,Not Returned
+ORD-00202,21/03/2023,Home & Kitchen,Water Bottle,3.0,,34.78,,Credit Card,9.0,Not Returned
+ORD-03091,2023-06-28,Books,History Reference Book,3.0,12146.41,33.57,East,UPI,14.0,Not Returned
+ORD-02127,2023-11-26,,,7.0,13124.38,35.35,,Credit Card,15.0,Not Returned
+ORD-01723,,Groceries,Coffee Beans,14.0,10694.84,32.44,,Cash on Delivery,14.0,Returned
+ORD-02444,2024-05-01,,Data Science Workbook,4.0,3741.63,5.83,North,UPI,3.0,Not Returned
+ORD-01759,2023-11-16,Home & Kitchen,Storage Box Set,16.0,8477.52,30.45,,Debit Card,1.0,Not Returned
+ORD-01358,,Sports,Football,,1919.55,13.44,North,UPI,5.0,Returned
+ORD-04530,26/06/2024,Clothing,Running Shorts,19.0,2408.09,17.95,South,Credit Card,10.0,
+ORD-00317,2024-07-03,,Laptop Stand,1.0,,-11.08,West,Cash on Delivery,4.0,
+ORD-04684,21/11/2024,Sports,Tennis Racquet,5.0,6791.7,25.86,,UPI,15.0,Not Returned
+ORD-01496,05/07/2024,Beauty,Body Wash,1.0,₹ 13893.59,-1.43,North,Cash on Delivery,2.0,Not Returned
+ORD-04719,2024-11-12,Beauty,Nail Polish Set,2.0,4277.58,6.65,East,UPI,9.0,Not Returned
+ORD-04564,26/08/2024,Home & Kitchen,Storage Box Set,1500.0,9537.7,38.38,Central,Debit Card,,Not Returned
+ORD-02976,11/02/2024,Books,Motivational Reader,,2006.51,24.42,Central,UPI,,Not Returned
+ORD-04289,2023-09-11,Home & Kitchen,Non-stick Pan,18.0,3454.93,25.0,East,UPI,,Not Returned
+ORD-04732,30/03/2024,,Motivational Reader,3.0,₹14032.80,2.37,East,Cash on Delivery,14.0,Not Returned
+ORD-03524,16/12/2023,Home & Kitchen,Dish Rack,8.0,9884.0,36.87,West,Cash on Delivery,12.0,Not Returned
+ORD-00773,,,Body Wash,15.0,12019.28,5.21,North,Net Banking,2.0,Not Returned
+ORD-01757,2024-05-05,Home & Kitchen,Dish Rack,3.0,852.53,26.13,,Credit Card,9.0,Not Returned
+ORD-01476,2024-04-02,Home & Kitchen,Chef Knife,20.0,6422.29,5.21,,Debit Card,14.0,Not Returned
+ORD-04258,06/08/2024,Beauty,Body Wash,20.0,59.68,36.91,Central,UPI,11.0,Not Returned
+ORD-02643,2024-05-19,Clothing,Sports Socks,19.0,13723.41,33.42,South,UPI,9.0,
+ORD-01242,2023-12-17,Sports,Cricket Bat,4.0,6663.06,8.21,North,UPI,2.0,
+ORD-02327,2023-09-30,Sports,Skipping Rope,14.0,1018.35,24.19,South,,12.0,Not Returned
+ORD-02050,,Books,,3.0,"₹14,225.18",17.09,North,UPI,5.0,Not Returned
+ORD-02959,2024-12-03,Books,History Reference Book,16.0,₹ 3566.50,18.17,Central,UPI,3.0,Returned
+ORD-01929,,,USB-C Cable,17.0,12586.34,21.29,West,UPI,5.0,Not Returned
+ORD-02983,04/07/2023,Beauty,Sunscreen Lotion,2.0,14892.26,,Central,UPI,7.0,Pending
+ORD-04334,,Beauty,Lip Balm,19.0,11513.31,17.17,North,UPI,6.0,Not Returned
+ORD-03093,2024-01-25,Sports,Dumbbell Set,7.0,,10.67,East,Net Banking,13.0,Not Returned
+ORD-02198,2023-05-14,Beauty,Face Cleanser,2.0,14092.52,,East,Debit Card,,Not Returned
+ORD-01715,27/07/2023,Groceries,Breakfast Cereal,18.0,,33.54,East,UPI,13.0,Not Returned
+ORD-01828,18/04/2023,Clothing,Jacket,14.0,1809.71,30.18,Central,Debit Card,4.0,Not Returned
+ORD-02392,,Home & Kitchen,Chef Knife,5000.0,1625.17,5.65,South,Credit Card,14.0,Not Returned
+ORD-00135,05/07/2023,Electronics,Smart Watch,16.0,4524.05,1.74,West,Debit Card,5.0,Not Returned
+ORD-00155,,,,15.0,5472.97,-3.03,Central,Credit Card,6.0,Not Returned
+ORD-03274,06/10/2023,Clothing,Cotton T-Shirt,20.0,6816.08,13.6,,Net Banking,15.0,Not Returned
+ORD-02065,,Beauty,Hair Serum,7.0,5091.22,15.8,,UPI,5.0,Not Returned
+ORD-01882,2024-07-21,Electronics,Bluetooth Speaker,5000.0,11728.5,29.74,Central,UPI,,
+ORD-03796,2024-02-02,,Yoga Mat,7.0,1227.12,24.25,East,Credit Card,13.0,Not Returned
+ORD-01259,30/04/2024,Home & Kitchen,Non-stick Pan,10.0,10841.38,31.03,South,Net Banking,15.0,Not Returned
+ORD-04015,19/07/2023,Clothing,Cotton T-Shirt,,14464.85,,South,Net Banking,15.0,
+ORD-02110,2023-04-06,Beauty,Face Cleanser,5.0,3368.44,12.95,East,Debit Card,13.0,Returned
+ORD-04693,,Books,Exam Prep Notes,4.0,10289.34,24.09,East,Credit Card,13.0,Pending
+ORD-04638,29/11/2023,Beauty,Nail Polish Set,12.0,"₹10,983.19",8.32,North,Net Banking,13.0,Not Returned
+ORD-04384,26/08/2023,Sports,Dumbbell Set,18.0,9615.77,28.9,South,,10.0,Pending
+ORD-03419,2023-05-16,Home & Kitchen,Dish Rack,17.0,11016.37,37.29,,Credit Card,,Not Returned
+ORD-03792,2023-07-05,Books,Exam Prep Notes,,₹13227.17,0.7,Central,Credit Card,,Pending
+ORD-03128,2024-10-09,Clothing,Hoodie,1.0,,8.33,,UPI,5.0,Not Returned
+ORD-03857,21/02/2024,Clothing,Running Shorts,15.0,,17.39,Central,Cash on Delivery,2.0,Pending
+ORD-04571,27/05/2024,Books,Exam Prep Notes,4.0,8527.33,7.7,South,Credit Card,13.0,Not Returned
+ORD-02735,2023-05-29,Beauty,Hair Serum,6.0,653.08,32.85,East,UPI,15.0,Returned
+ORD-01390,17/07/2024,Home & Kitchen,,,7109.94,14.87,North,UPI,12.0,Not Returned
+ORD-04440,2024-10-13,Electronics,,,6528.06,,North,Credit Card,,Not Returned
+ORD-00114,06/09/2023,Groceries,Breakfast Cereal,1500.0,₹466.62,17.18,,UPI,13.0,Not Returned
+ORD-01067,2023-02-19,Clothing,Hoodie,2.0,"₹12,199.53",37.78,,Debit Card,8.0,Not Returned
+ORD-03257,2024-04-28,Books,Exam Prep Notes,1.0,,37.54,East,Credit Card,10.0,Not Returned
+ORD-02255,2023-08-20,Beauty,Hair Serum,18.0,12647.24,0.13,West,UPI,,Not Returned
+ORD-03044,30/04/2024,Books,Fantasy Novel,19.0,8786.84,21.85,Central,Debit Card,6.0,Pending
+ORD-04214,2023-12-03,Clothing,Casual Shirt,20.0,2143.16,17.43,East,Net Banking,15.0,Not Returned
+ORD-00611,2024-10-14,Sports,,6.0,10732.35,15.13,East,Debit Card,13.0,Not Returned
+ORD-04613,,,Exam Prep Notes,9.0,5886.99,,Central,UPI,2.0,
+ORD-02603,27/06/2024,Sports,Cricket Bat,16.0,,-5.39,North,UPI,4.0,Not Returned
+ORD-03480,2024-12-10,Clothing,,11.0,7844.48,10.15,North,Debit Card,3.0,Not Returned
+ORD-02391,2023-06-10,Sports,Gym Gloves,3000.0,9981.87,6.54,,Debit Card,6.0,Pending
+ORD-02990,2024-09-07,Home & Kitchen,Water Bottle,17.0,13138.87,30.56,Central,UPI,6.0,Not Returned
+ORD-03226,01/03/2024,Groceries,,13.0,7042.24,21.78,South,Debit Card,11.0,Not Returned
+ORD-01334,2023-07-05,Groceries,Organic Rice,5.0,₹ 9298.78,19.48,,Credit Card,15.0,Returned
+ORD-01591,2023-06-14,Sports,,,₹ 8166.71,36.31,,,6.0,Not Returned
+ORD-01112,2023-07-14,Electronics,Bluetooth Speaker,,2847.52,9.7,North,Credit Card,,
+ORD-03985,07/10/2024,Electronics,USB-C Cable,19.0,544.71,4.68,,Credit Card,13.0,Not Returned
+ORD-00079,2024-05-31,Books,Motivational Reader,20.0,13863.76,25.19,,UPI,15.0,Not Returned
+ORD-03843,,Home & Kitchen,Storage Box Set,2.0,5512.48,5.58,North,UPI,6.0,Not Returned
+ORD-02423,2023-03-04,Groceries,Organic Rice,5.0,,10.64,West,Credit Card,13.0,Not Returned
+ORD-00919,2023-08-29,Groceries,Green Tea Pack,3.0,,35.75,Central,,1.0,Not Returned
+ORD-04647,09/01/2023,Sports,Cricket Bat,3.0,1405.64,14.86,Central,,5.0,Not Returned
+ORD-02945,2023-09-16,,Hair Serum,3.0,,-10.51,South,,,Not Returned
+ORD-02553,13/08/2023,Beauty,,3.0,8668.7,26.58,South,UPI,10.0,Returned
+ORD-00511,13/01/2024,Groceries,Breakfast Cereal,5.0,2606.75,15.74,,Credit Card,4.0,Not Returned
+ORD-02337,2024-07-09,Home & Kitchen,,14.0,6785.77,31.74,South,,14.0,Returned
+ORD-03901,22/06/2024,Books,Machine Learning Handbook,19.0,10294.67,18.71,West,Net Banking,11.0,
+ORD-03962,24/09/2024,Clothing,Casual Shirt,12.0,3756.58,,East,Credit Card,15.0,Returned
+ORD-00371,2023-04-20,Beauty,Hair Serum,1.0,,,West,,3.0,Not Returned
+ORD-01181,2023-05-07,Electronics,Smartphone Charger,20.0,,39.68,West,Net Banking,,Not Returned
+ORD-04081,2024-12-28,Electronics,USB-C Cable,17.0,14058.84,22.59,West,UPI,,Pending
+ORD-02951,14/01/2024,Beauty,Lip Balm,8.0,948.22,38.63,South,Debit Card,11.0,
+ORD-02560,2024-08-27,Clothing,Sports Socks,19.0,4675.58,-11.79,Central,Debit Card,9.0,Not Returned
+ORD-02749,,Groceries,Protein Bar Pack,10.0,13655.16,20.75,North,UPI,,Returned
+ORD-02569,27/08/2024,Clothing,Denim Jeans,17.0,14141.97,,East,UPI,,
+ORD-01513,13/11/2024,Clothing,Cotton T-Shirt,16.0,3169.19,6.73,West,Credit Card,,Not Returned
+ORD-01349,03/02/2023,Beauty,Sunscreen Lotion,2.0,8155.84,32.48,North,Debit Card,3.0,Not Returned
+ORD-01243,2024-07-21,Clothing,Jacket,12.0,4996.06,29.86,South,Cash on Delivery,9.0,Not Returned
+ORD-03060,2023-07-07,Books,Motivational Reader,9.0,6383.99,20.17,North,,1.0,Not Returned
+ORD-02294,2023-07-31,Electronics,Laptop Stand,17.0,"₹9,253.13",28.69,North,Net Banking,2.0,Not Returned
+ORD-04813,18/06/2024,Groceries,Protein Bar Pack,,5656.5,0.29,,,10.0,Not Returned
+ORD-01565,2023-07-03,,Vacuum Flask,2.0,1017.31,35.67,South,,13.0,Not Returned
+ORD-03077,22/08/2023,Books,History Reference Book,15.0,,38.96,Central,Net Banking,4.0,Not Returned
+ORD-03684,03/01/2024,Home & Kitchen,Vacuum Flask,10.0,1230.86,26.4,Central,Debit Card,1.0,Not Returned
+ORD-03027,06/12/2024,,Breakfast Cereal,,10594.63,11.3,West,Debit Card,7.0,Not Returned
+ORD-03506,23/03/2024,Books,Machine Learning Handbook,17.0,₹9898.43,9.32,East,Credit Card,13.0,Not Returned
+ORD-01362,2023-05-23,Clothing,,16.0,7758.4,39.02,South,,13.0,Not Returned
+ORD-00279,2023-12-29,Books,,4.0,198.56,23.3,West,,7.0,Not Returned
+ORD-02193,2024-10-15,Books,Machine Learning Handbook,,,-4.38,North,,9.0,Not Returned
+ORD-00787,,Beauty,Moisturizing Cream,19.0,945.08,20.15,West,Net Banking,5.0,Not Returned
+ORD-00760,2024-01-16,Beauty,Nail Polish Set,20.0,8506.98,26.3,,,,Not Returned
+ORD-01343,17/11/2024,Home & Kitchen,Dish Rack,16.0,,,North,UPI,1.0,Not Returned
+ORD-02172,25/03/2023,Sports,Cricket Bat,,7640.23,37.98,Central,Credit Card,,Not Returned
+ORD-00072,02/12/2024,Books,Motivational Reader,15.0,9712.64,,South,Debit Card,,Not Returned
+ORD-04494,28/03/2023,,Laptop Stand,,13791.12,22.87,,Credit Card,13.0,Not Returned
+ORD-01415,2023-06-29,Electronics,Laptop Stand,17.0,11409.96,,North,UPI,5.0,Not Returned
+ORD-02385,2024-01-20,,Bluetooth Speaker,12.0,,-10.9,Central,Debit Card,9.0,Not Returned
+ORD-01901,2024-09-02,Beauty,Hair Serum,10.0,,,East,Credit Card,15.0,
+ORD-02588,02/01/2024,Electronics,Noise Cancelling Headphones,1.0,14861.15,7.19,South,UPI,10.0,Not Returned
+ORD-04514,2024-04-04,Groceries,Pasta Bundle,3.0,10221.65,24.16,,Net Banking,15.0,Not Returned
+ORD-02946,2024-08-24,Beauty,Hair Serum,,2160.53,25.97,,UPI,14.0,Returned
+ORD-00481,05/06/2024,Books,Machine Learning Handbook,8.0,1210.78,27.41,North,Credit Card,3.0,Not Returned
+ORD-03323,28/06/2023,Books,Motivational Reader,6.0,3449.92,14.09,North,Debit Card,5.0,
+ORD-03624,30/10/2024,Books,,5.0,8999.73,-9.72,Central,Debit Card,15.0,Not Returned
+ORD-01583,2024-12-17,Electronics,Noise Cancelling Headphones,12.0,6081.03,,South,Debit Card,,Not Returned
+ORD-01662,14/05/2023,Clothing,Running Shorts,2.0,₹1352.11,32.3,West,Credit Card,4.0,Not Returned
+ORD-00729,2023-07-14,Electronics,Laptop Stand,20.0,5618.05,19.34,East,Credit Card,15.0,Not Returned
+ORD-03939,13/04/2023,Books,Exam Prep Notes,20.0,533.42,23.56,Central,Cash on Delivery,2.0,
+ORD-01179,2023-07-03,Electronics,Wireless Earbuds,1.0,14100.72,27.67,East,UPI,15.0,Not Returned
+ORD-03858,21/10/2023,Sports,Cricket Bat,,12555.09,33.05,North,Credit Card,3.0,Not Returned
+ORD-00851,24/06/2024,Beauty,Body Wash,12.0,6504.37,31.89,Central,,8.0,Not Returned
+ORD-03651,18/11/2023,Books,History Reference Book,10.0,2308.05,6.13,South,UPI,13.0,Not Returned
+ORD-01734,,Electronics,USB-C Cable,3.0,1099.14,28.54,East,UPI,,
+ORD-04644,31/01/2023,Clothing,Sports Socks,4.0,13344.17,9.46,West,UPI,,
+ORD-01837,18/01/2023,,Laptop Stand,4.0,4938.97,17.57,South,Debit Card,14.0,Not Returned
+ORD-03007,10/04/2024,Books,Machine Learning Handbook,10.0,,,West,Cash on Delivery,8.0,Pending
+ORD-01920,31/08/2024,Clothing,Hoodie,,6116.58,8.74,Central,UPI,,Not Returned
+ORD-01194,2023-06-18,Sports,Dumbbell Set,4.0,1620.3,,,Debit Card,13.0,Not Returned
+ORD-01845,,Beauty,Lip Balm,1.0,4019.17,39.98,North,Debit Card,6.0,Returned
+ORD-02739,2023-11-19,Clothing,Running Shorts,3.0,646.93,34.64,West,Credit Card,6.0,Not Returned
+ORD-00354,04/12/2024,Books,Fantasy Novel,10.0,₹4808.92,32.25,East,UPI,15.0,
+ORD-01569,2024-04-09,Beauty,,6.0,961.02,2.23,West,Net Banking,4.0,Not Returned
+ORD-01076,29/04/2023,,Machine Learning Handbook,11.0,9105.63,27.78,Central,Net Banking,12.0,Not Returned
+ORD-03142,,Sports,Yoga Mat,16.0,,6.19,North,,15.0,Not Returned
+ORD-03701,2024-06-01,Home & Kitchen,Storage Box Set,20.0,,20.26,South,Credit Card,15.0,Not Returned
+ORD-04682,27/08/2023,,Vacuum Flask,15.0,10045.65,0.53,East,,15.0,
+ORD-04318,04/02/2023,Sports,Cricket Bat,12.0,11816.03,20.87,North,Credit Card,3.0,Returned
+ORD-03823,2023-08-10,,,9.0,2067.44,,North,UPI,,
+ORD-02895,24/06/2023,Home & Kitchen,Vacuum Flask,14.0,4237.73,0.08,South,Net Banking,13.0,Pending
+ORD-00586,25/09/2023,Clothing,Jacket,7.0,4426.27,6.06,,,15.0,Not Returned
+ORD-01154,2024-03-12,Books,Exam Prep Notes,8.0,14171.79,1.1,East,Debit Card,12.0,Not Returned
+ORD-01225,2024-09-20,Beauty,,14.0,,23.59,West,Debit Card,10.0,Pending
+ORD-03277,2024-01-21,Home & Kitchen,LED Table Lamp,16.0,,-6.73,Central,,3.0,Not Returned
+ORD-01077,2023-12-15,Beauty,Sunscreen Lotion,19.0,4993.56,0.91,South,Debit Card,10.0,
+ORD-03046,16/03/2023,Groceries,Breakfast Cereal,,12414.51,10.5,East,Credit Card,15.0,Returned
+ORD-03022,14/10/2024,Sports,Dumbbell Set,,822.5,37.59,South,UPI,14.0,Not Returned
+ORD-02756,2024-07-09,Books,Exam Prep Notes,9999.0,12290.44,,,Credit Card,,Not Returned
+ORD-03522,,,Chef Knife,18.0,8706.0,17.27,,UPI,12.0,Not Returned
+ORD-04261,2024-05-06,Electronics,Smart Watch,11.0,5021.16,,Central,Credit Card,9.0,
+ORD-02523,2023-09-08,Clothing,Cotton T-Shirt,5.0,1543.32,8.66,North,,10.0,Not Returned
+ORD-03929,2023-12-15,Clothing,,12.0,2414.38,,West,,9.0,Not Returned
+ORD-02814,03/11/2023,Clothing,Denim Jeans,18.0,6270.23,17.29,South,,10.0,Not Returned
+ORD-00927,19/09/2023,Sports,Dumbbell Set,8.0,,,East,Debit Card,13.0,Not Returned
+ORD-04269,31/07/2024,,Organic Rice,1.0,2820.43,31.22,East,UPI,12.0,Not Returned
+ORD-03359,30/03/2024,Clothing,Denim Jeans,10.0,4620.76,-12.44,East,Cash on Delivery,12.0,Not Returned
+ORD-04471,2023-09-02,Sports,Skipping Rope,20.0,8897.93,24.07,North,,,
+ORD-02012,2024-12-11,Sports,Tennis Racquet,,9481.04,1.03,West,Net Banking,7.0,Not Returned
+ORD-00671,2023-02-21,Clothing,Casual Shirt,1.0,₹ 3417.10,20.36,Central,Credit Card,5.0,Not Returned
+ORD-01345,,Clothing,Cotton T-Shirt,7.0,5045.37,30.76,East,Cash on Delivery,10.0,Not Returned
+ORD-03971,2023-08-22,Clothing,Casual Shirt,18.0,9908.25,20.09,East,UPI,15.0,Not Returned
+ORD-00037,09/07/2024,Clothing,Casual Shirt,2.0,13874.21,35.74,,Debit Card,6.0,Pending
+ORD-01229,,Clothing,Sports Socks,11.0,3841.34,30.3,North,UPI,11.0,Not Returned
+ORD-02557,2024-11-02,Sports,Skipping Rope,2.0,14916.07,16.23,South,UPI,14.0,Not Returned
+ORD-00794,2023-10-11,Sports,Tennis Racquet,4.0,12177.53,32.31,West,Net Banking,5.0,Returned
+ORD-00685,2024-04-26,Sports,Tennis Racquet,11.0,879.87,,,UPI,8.0,Not Returned
+ORD-01585,2023-07-07,Clothing,Cotton T-Shirt,2500.0,1356.71,13.83,Central,,2.0,Not Returned
+ORD-03348,2023-03-21,Books,,14.0,10575.86,,Central,Credit Card,8.0,
+ORD-00692,2024-12-12,Books,,19.0,14461.93,26.86,North,,1.0,Not Returned
+ORD-02965,10/06/2024,Sports,Cricket Bat,,,-13.34,West,Credit Card,1.0,Pending
+ORD-00214,2023-03-06,,Cricket Bat,18.0,₹ 10328.13,19.06,West,,4.0,Not Returned
+ORD-04497,14/11/2024,Books,Fantasy Novel,14.0,,29.07,Central,UPI,3.0,Not Returned
+ORD-01829,2024-02-09,Clothing,Hoodie,4.0,12640.42,20.25,West,UPI,5.0,Not Returned
+ORD-03039,27/12/2023,,Olive Oil,9999.0,9560.72,38.95,South,Credit Card,12.0,Not Returned
+ORD-02871,27/11/2023,,Laptop Stand,4.0,953.26,0.25,,UPI,7.0,Not Returned
+ORD-01264,16/09/2024,Books,Exam Prep Notes,7.0,,-5.27,,,15.0,Not Returned
+ORD-02403,,Home & Kitchen,Dish Rack,16.0,14091.14,27.59,South,,8.0,Not Returned
+ORD-01388,28/12/2023,Beauty,Hair Serum,18.0,3419.6,27.33,South,UPI,11.0,Returned
+ORD-04151,2024-09-28,Clothing,Cotton T-Shirt,6.0,196.41,34.09,North,UPI,,Not Returned
+ORD-01483,,Groceries,Breakfast Cereal,12.0,9470.0,22.54,North,Debit Card,6.0,Not Returned
+ORD-00615,31/01/2023,Books,History Reference Book,4.0,1664.03,38.14,Central,Credit Card,10.0,Not Returned
+ORD-00153,27/04/2024,Beauty,Body Wash,17.0,6176.98,2.86,,UPI,,Not Returned
+ORD-04300,,Clothing,Hoodie,6.0,3022.71,29.11,West,Credit Card,6.0,Not Returned
+ORD-00578,2024-05-21,Home & Kitchen,Vacuum Flask,19.0,,18.03,North,UPI,6.0,Not Returned
+ORD-01965,03/03/2024,Clothing,Denim Jeans,11.0,,11.43,West,Debit Card,9.0,Not Returned
+ORD-03949,2024-12-02,Sports,Gym Gloves,20.0,12028.48,36.78,West,Debit Card,3.0,Not Returned
+ORD-03003,,Books,Python Programming Guide,,4778.6,,Central,,4.0,Not Returned
+ORD-02258,2024-06-22,Home & Kitchen,Chef Knife,,11534.38,23.56,Central,Debit Card,3.0,Returned
+ORD-00427,,Clothing,Denim Jeans,13.0,4029.91,,North,Credit Card,6.0,
+ORD-00186,2024-02-01,Electronics,Bluetooth Speaker,17.0,200.43,23.4,East,UPI,12.0,
+ORD-00056,2024-11-01,Home & Kitchen,Storage Box Set,12.0,12143.52,38.7,East,Credit Card,13.0,
+ORD-01950,2023-08-18,Home & Kitchen,Non-stick Pan,1.0,12448.71,29.45,,Debit Card,14.0,Not Returned
+ORD-04584,2024-09-09,Beauty,Moisturizing Cream,11.0,7025.94,8.68,Central,UPI,6.0,Not Returned
+ORD-04729,2023-09-24,Groceries,Green Tea Pack,4.0,10769.16,-4.51,South,UPI,,Not Returned
+ORD-04377,2024-03-09,Books,Machine Learning Handbook,3.0,6297.34,,North,Net Banking,14.0,Not Returned
+ORD-00306,18/10/2023,Groceries,,12.0,4977.65,25.43,West,Net Banking,12.0,Not Returned
+ORD-04256,25/05/2023,Beauty,Nail Polish Set,,13998.53,34.56,Central,Credit Card,,Not Returned
+ORD-02095,2024-02-26,,Non-stick Pan,4.0,4778.59,14.54,East,,14.0,Not Returned
+ORD-00502,2023-01-07,Sports,Yoga Mat,4.0,10789.54,34.58,North,Debit Card,1.0,Not Returned
+ORD-02274,09/08/2023,Beauty,Face Cleanser,13.0,"₹1,769.78",32.38,South,Net Banking,14.0,Returned
+ORD-00930,2024-01-26,Sports,Skipping Rope,3.0,,13.07,North,,1.0,
+ORD-01203,2023-01-16,Sports,Gym Gloves,,13606.15,26.43,Central,Credit Card,,Not Returned
+ORD-03033,2024-06-29,,Exam Prep Notes,14.0,,33.62,,Cash on Delivery,,Not Returned
+ORD-01728,2024-01-02,,Running Shorts,11.0,2148.05,,South,Credit Card,10.0,Not Returned
+ORD-04764,19/12/2023,Groceries,Olive Oil,,3985.59,11.53,East,,8.0,Returned
+ORD-02603,,,Motivational Reader,9.0,5776.29,-11.32,North,UPI,4.0,Not Returned
+ORD-04879,2024-08-17,Sports,,7.0,3336.2,17.26,Central,Debit Card,1.0,Not Returned
+ORD-00369,2023-05-22,Beauty,Hair Serum,13.0,10231.94,,South,UPI,15.0,
+ORD-04084,2024-11-19,Groceries,,,,36.7,East,Debit Card,14.0,
+ORD-00590,,Home & Kitchen,Water Bottle,9.0,2418.97,4.73,East,Debit Card,12.0,Returned
+ORD-04317,22/11/2023,Sports,Tennis Racquet,11.0,14331.6,15.82,Central,,,Not Returned
+ORD-01875,2024-05-27,Books,Python Programming Guide,11.0,11065.26,39.42,West,Debit Card,9.0,Pending
+ORD-01535,2024-05-15,,Hoodie,19.0,,31.53,East,Credit Card,13.0,Pending
+ORD-03080,17/02/2024,Electronics,Laptop Stand,1.0,4563.12,15.01,North,UPI,12.0,Not Returned
+ORD-00886,,,Data Science Workbook,10.0,9020.28,8.29,South,Net Banking,13.0,Not Returned
+ORD-01577,2023-11-13,Sports,Cricket Bat,2.0,,7.98,,Net Banking,9.0,Not Returned
+ORD-04863,23/11/2023,Clothing,Cotton T-Shirt,,14502.03,39.5,West,UPI,5.0,Not Returned
+ORD-02700,2023-11-18,,Gym Gloves,13.0,14447.79,14.79,North,Debit Card,11.0,Not Returned
+ORD-01514,2023-05-22,Beauty,Hair Serum,14.0,5225.6,37.07,South,Debit Card,14.0,Not Returned
+ORD-00011,28/01/2024,Home & Kitchen,,6.0,13939.34,,Central,Debit Card,3.0,
+ORD-04636,2024-07-17,Books,Motivational Reader,7.0,11582.13,38.49,West,Net Banking,,Not Returned
+ORD-02819,2023-03-04,,,14.0,6161.27,26.61,East,UPI,14.0,Not Returned
+ORD-00190,2023-12-02,Groceries,,5.0,982.85,,Central,Credit Card,,
+ORD-01240,2023-11-25,Clothing,Sports Socks,3.0,,,Central,UPI,2.0,Not Returned
+ORD-02747,12/11/2024,Electronics,Smart Watch,20.0,10696.81,,West,Credit Card,5.0,Not Returned
+ORD-01032,,Groceries,,14.0,5453.36,38.44,,Debit Card,10.0,Not Returned
+ORD-01095,,Home & Kitchen,Vacuum Flask,19.0,,39.44,North,UPI,3.0,Pending
+ORD-01210,26/07/2023,,Dish Rack,,,13.83,East,UPI,13.0,Not Returned
+ORD-00406,2024-07-26,Sports,Dumbbell Set,10.0,5914.69,36.45,East,,13.0,Not Returned
+ORD-02070,2023-11-27,Groceries,,4.0,2530.46,9.57,North,Cash on Delivery,,Not Returned
+ORD-02074,,Groceries,Organic Rice,17.0,7673.79,,,Credit Card,11.0,Not Returned
+ORD-03755,2024-08-09,Beauty,,3.0,5297.01,33.45,West,Credit Card,5.0,Not Returned
+ORD-01952,10/02/2023,Home & Kitchen,,,4961.13,25.06,South,,11.0,Not Returned
+ORD-02330,,Sports,,15.0,2426.08,-11.29,,UPI,4.0,Not Returned
+ORD-03733,17/04/2024,Beauty,Sunscreen Lotion,14.0,12470.19,1.18,East,UPI,11.0,Not Returned
+ORD-03809,2023-09-10,Groceries,Protein Bar Pack,,2968.36,,Central,Debit Card,1.0,Not Returned
+ORD-03825,22/06/2023,,Laptop Stand,5.0,4486.37,5.2,West,UPI,8.0,
+ORD-00343,2023-07-30,Sports,Gym Gloves,6.0,5557.39,10.7,,Debit Card,3.0,
+ORD-02133,,Beauty,Face Cleanser,4.0,11514.46,,,UPI,9.0,Returned
+ORD-04589,2024-10-16,Sports,Gym Gloves,8.0,,,North,UPI,5.0,Not Returned
+ORD-04811,2023-05-23,Clothing,Running Shorts,7.0,8023.67,29.89,South,Debit Card,13.0,Not Returned
+ORD-00957,2023-09-15,Books,,1500.0,13412.99,23.73,East,Debit Card,15.0,Returned
+ORD-00208,2023-02-02,Home & Kitchen,Vacuum Flask,3.0,7198.54,24.88,East,UPI,11.0,Pending
+ORD-02201,30/05/2023,,Protein Bar Pack,19.0,1990.41,36.96,Central,UPI,10.0,Not Returned
+ORD-04853,,Clothing,Cotton T-Shirt,9999.0,,10.4,Central,Cash on Delivery,5.0,Returned
+ORD-00657,06/06/2023,Groceries,Coffee Beans,11.0,13695.48,,Central,Credit Card,4.0,Not Returned
+ORD-02164,27/02/2024,,Bluetooth Speaker,12.0,"₹10,335.96",1.69,Central,Net Banking,,Not Returned
+ORD-00644,23/10/2024,Groceries,Coffee Beans,,10805.81,3.76,,Net Banking,12.0,Returned
+ORD-00841,2024-06-06,Beauty,Hair Serum,15.0,14457.73,10.81,,UPI,12.0,
+ORD-03148,2024-10-06,Groceries,Breakfast Cereal,3.0,2767.73,14.34,Central,,11.0,Not Returned
+ORD-02205,2023-12-07,Clothing,Sports Socks,4.0,2142.89,32.57,North,Cash on Delivery,5.0,Returned
+ORD-01540,2023-10-20,Electronics,Wireless Earbuds,19.0,,,West,UPI,5.0,Not Returned
+ORD-04746,2024-03-24,Electronics,Smart Watch,16.0,,9.28,South,Net Banking,15.0,Not Returned
+ORD-04113,26/05/2023,Home & Kitchen,Storage Box Set,5.0,4662.69,10.87,East,Credit Card,15.0,Not Returned
+ORD-00808,2023-05-22,Sports,Yoga Mat,3.0,8353.06,14.75,South,Debit Card,8.0,
+ORD-03675,2023-04-30,Books,Fantasy Novel,,11707.74,36.12,,UPI,14.0,Not Returned
+ORD-01092,2024-05-07,Clothing,,1.0,,18.89,North,UPI,1.0,Pending
+ORD-04533,,Clothing,Hoodie,2.0,1187.51,,South,UPI,10.0,Not Returned
+ORD-03739,2024-10-25,,Non-stick Pan,11.0,7451.78,18.35,South,Credit Card,9.0,Not Returned
+ORD-04873,2023-04-19,Home & Kitchen,Storage Box Set,19.0,11169.8,,,Debit Card,6.0,Not Returned
+ORD-03876,29/10/2023,Beauty,Body Wash,12.0,1705.96,38.86,East,Credit Card,8.0,Returned
+ORD-00531,05/01/2024,Beauty,Body Wash,10.0,11196.67,,,Credit Card,7.0,Not Returned
+ORD-00727,,Home & Kitchen,Dish Rack,,7968.28,24.15,Central,,10.0,Not Returned
+ORD-03313,2023-03-30,Books,,10.0,,26.74,South,Credit Card,12.0,Pending
+ORD-03211,11/07/2024,,,1.0,8374.5,30.05,South,Debit Card,15.0,Returned
+ORD-00387,16/01/2023,Home & Kitchen,Water Bottle,9.0,3077.66,22.46,Central,Cash on Delivery,6.0,Not Returned
+ORD-01787,2023-02-26,Beauty,,1.0,14874.13,4.78,West,Credit Card,12.0,Not Returned
+ORD-04439,,Electronics,Smartphone Charger,17.0,12610.87,24.06,South,UPI,14.0,Not Returned
+ORD-02901,2023-01-23,Books,Motivational Reader,1.0,,,East,Debit Card,15.0,Not Returned
+ORD-01894,22/08/2024,Home & Kitchen,Chef Knife,3.0,588.2,,North,,8.0,Not Returned
+ORD-03365,,Beauty,,3.0,10553.58,20.38,East,Debit Card,15.0,Not Returned
+ORD-04651,02/02/2024,Groceries,Green Tea Pack,4.0,,3.46,South,,12.0,Not Returned
+ORD-02364,20/09/2023,Books,Fantasy Novel,19.0,12750.51,,Central,UPI,3.0,Returned
+ORD-02563,2024-09-11,Clothing,,10.0,4705.76,37.5,North,Credit Card,8.0,Not Returned
+ORD-00585,2023-07-29,,Running Shorts,17.0,2679.32,37.21,,UPI,11.0,Not Returned
+ORD-04873,14/08/2023,,,13.0,8900.59,28.18,North,UPI,10.0,Not Returned
+ORD-02661,,Clothing,Running Shorts,9.0,14659.45,10.52,North,Debit Card,2.0,Not Returned
+ORD-00336,2023-05-01,Electronics,Noise Cancelling Headphones,3.0,6513.72,13.37,West,,8.0,
+ORD-04804,2023-02-09,Books,,3.0,,15.24,West,Debit Card,10.0,Not Returned
+ORD-03806,2023-02-01,Beauty,Body Wash,1200.0,12616.12,26.82,West,Net Banking,,Not Returned
+ORD-03237,,,USB-C Cable,16.0,13206.97,,,Debit Card,13.0,Not Returned
+ORD-00875,01/02/2023,,Football,7.0,4428.24,25.36,East,UPI,12.0,Pending
+ORD-02562,,Electronics,Noise Cancelling Headphones,12.0,3376.88,38.89,North,,6.0,
+ORD-03742,29/02/2024,,USB-C Cable,1.0,2286.1,9.26,East,Cash on Delivery,,
+ORD-01990,,Electronics,,14.0,13561.24,21.42,South,Net Banking,13.0,Not Returned
+ORD-02345,28/02/2023,Groceries,Pasta Bundle,15.0,3526.38,27.32,,Credit Card,,Returned
+ORD-02069,2024-11-09,Clothing,Hoodie,1.0,,10.99,,Credit Card,12.0,Not Returned
+ORD-02015,2023-09-22,Books,Fantasy Novel,19.0,2633.66,,Central,Debit Card,7.0,Returned
+ORD-04641,2024-06-27,Clothing,,6.0,,17.93,West,,3.0,Not Returned
+ORD-02039,12/07/2024,Electronics,,19.0,5105.37,,East,Debit Card,15.0,Not Returned
+ORD-03576,2024-07-01,Clothing,Casual Shirt,,1782.69,,Central,,2.0,Not Returned
+ORD-03514,31/03/2023,Sports,Dumbbell Set,6.0,,16.15,South,Net Banking,10.0,Not Returned
+ORD-01852,2023-01-03,Electronics,Laptop Stand,10.0,763.55,35.14,South,,,Not Returned
+ORD-03528,2024-12-18,Beauty,Body Wash,16.0,,,West,Credit Card,14.0,Not Returned
+ORD-02667,2024-09-14,Electronics,USB-C Cable,15.0,6442.5,4.07,East,Debit Card,12.0,Not Returned
+ORD-00731,17/12/2024,Books,,11.0,7553.32,19.26,North,,7.0,
+ORD-04462,2024-08-04,Electronics,,,12215.22,,East,,,Returned
+ORD-02715,2023-08-17,Beauty,Nail Polish Set,8.0,12835.06,32.41,West,UPI,12.0,Returned
+ORD-00472,2023-09-05,,Smartphone Charger,7.0,6127.02,19.42,West,UPI,14.0,
+ORD-01867,2023-09-29,Electronics,Smart Watch,14.0,,13.62,North,UPI,3.0,
+ORD-00876,,Clothing,Jacket,10.0,13754.87,15.32,West,Debit Card,,Not Returned
+ORD-01763,,,Olive Oil,,4241.08,1.92,Central,,1.0,Not Returned
+ORD-00579,2024-03-26,Groceries,Green Tea Pack,11.0,,30.11,East,Credit Card,,Not Returned
+ORD-04754,2023-03-30,Home & Kitchen,Water Bottle,7.0,2820.42,34.43,,Credit Card,2.0,Not Returned
+ORD-01636,,Sports,,,2724.57,17.06,East,UPI,11.0,Not Returned
+ORD-01685,2024-10-01,Groceries,,10.0,2333.22,29.15,Central,UPI,,Returned
+ORD-03510,03/12/2024,Books,Machine Learning Handbook,6.0,10013.03,23.99,South,,8.0,
+ORD-02937,24/04/2023,Electronics,Noise Cancelling Headphones,19.0,10948.38,28.32,North,UPI,11.0,
+ORD-01533,2023-04-13,Clothing,Denim Jeans,18.0,12293.84,28.58,Central,Credit Card,9.0,Not Returned
+ORD-02574,,Sports,Cricket Bat,1.0,12199.91,27.01,Central,UPI,4.0,Returned
+ORD-00619,2024-06-03,Books,Motivational Reader,12.0,4855.09,29.07,East,,14.0,Pending
+ORD-03550,06/06/2023,Clothing,Hoodie,8.0,1728.48,,Central,,,Returned
+ORD-04407,,Clothing,Casual Shirt,5.0,9370.83,39.85,West,UPI,5.0,Returned
+ORD-01607,03/01/2023,Groceries,Pasta Bundle,,,31.64,Central,Debit Card,1.0,Not Returned
+ORD-01122,26/12/2024,Groceries,,4.0,14868.19,20.97,South,Debit Card,15.0,Not Returned
+ORD-04294,03/07/2024,,Storage Box Set,19.0,153.31,24.15,Central,,8.0,Not Returned
+ORD-00376,2023-10-13,Groceries,Coffee Beans,1.0,3456.3,39.74,,UPI,10.0,
+ORD-03125,,Home & Kitchen,LED Table Lamp,14.0,8148.13,36.96,West,UPI,15.0,
+ORD-03677,2023-03-15,Beauty,Hair Serum,6.0,9566.18,14.19,West,Credit Card,3.0,Not Returned
+ORD-00382,2023-07-01,Sports,Skipping Rope,18.0,6862.51,-3.25,Central,Debit Card,13.0,Returned
+ORD-04549,2024-03-02,Clothing,Sports Socks,11.0,8207.73,17.2,North,Net Banking,9.0,
+ORD-02429,,Home & Kitchen,LED Table Lamp,16.0,817.86,38.37,North,Cash on Delivery,1.0,Not Returned
+ORD-02745,,,Hair Serum,20.0,₹11970.50,38.95,Central,,2.0,Not Returned
+ORD-00975,03/11/2024,Books,History Reference Book,20.0,2254.72,,Central,Credit Card,1.0,Not Returned
+ORD-04137,09/08/2023,Home & Kitchen,Storage Box Set,8.0,5970.49,6.44,West,UPI,4.0,Not Returned
+ORD-01316,31/10/2024,Groceries,Organic Rice,11.0,₹ 7752.00,36.59,Central,UPI,2.0,Not Returned
+ORD-02060,2023-02-01,,,,6345.02,38.15,North,Credit Card,5.0,
+ORD-01820,02/07/2024,,,10.0,13400.75,10.12,North,Debit Card,1.0,Not Returned
+ORD-04509,07/10/2023,,Non-stick Pan,3.0,,6.32,North,UPI,7.0,Not Returned
+ORD-00182,29/04/2023,Books,Python Programming Guide,14.0,6092.47,34.43,East,Credit Card,15.0,Not Returned
+ORD-03174,05/11/2024,Electronics,Noise Cancelling Headphones,7.0,14662.08,15.26,Central,Credit Card,1.0,Not Returned
+ORD-00667,2023-12-23,Clothing,Hoodie,,,,South,Net Banking,11.0,Not Returned
+ORD-02886,2024-02-21,Groceries,Coffee Beans,4.0,,29.25,East,Debit Card,14.0,Not Returned
+ORD-03504,2023-12-11,Sports,,14.0,12871.12,,,Debit Card,13.0,Not Returned
+ORD-01192,10/12/2024,Clothing,Jacket,1.0,10285.54,,,Net Banking,4.0,Not Returned
+ORD-03200,2023-06-21,Clothing,Cotton T-Shirt,17.0,13479.53,6.73,North,Debit Card,7.0,Not Returned
+ORD-01955,2024-10-07,Groceries,Coffee Beans,6.0,134.99,25.46,Central,Debit Card,8.0,Pending
+ORD-02958,,Electronics,Smartphone Charger,18.0,14453.29,15.8,West,,,Not Returned
+ORD-04587,2024-03-13,Clothing,Hoodie,10.0,8247.81,1.37,,UPI,3.0,
+ORD-02688,2024-06-06,Books,Motivational Reader,16.0,6244.45,15.26,Central,Net Banking,12.0,Not Returned
+ORD-04340,04/03/2024,Sports,,7.0,1121.81,38.02,Central,Debit Card,7.0,Not Returned
+ORD-04313,28/01/2024,Beauty,Face Cleanser,10.0,10819.98,31.87,,UPI,15.0,Returned
+ORD-00968,,Books,History Reference Book,5.0,₹9217.23,-5.65,West,UPI,7.0,Pending
+ORD-00680,09/11/2024,Home & Kitchen,Chef Knife,16.0,,25.32,South,UPI,12.0,
+ORD-00461,2023-10-04,,Protein Bar Pack,15.0,1509.88,33.36,East,,,Not Returned
+ORD-04027,2024-04-14,Groceries,Olive Oil,1.0,,0.64,West,UPI,11.0,Not Returned
+ORD-04316,2023-04-18,Electronics,Smart Watch,,13096.53,16.19,West,Cash on Delivery,3.0,
+ORD-01621,2023-05-21,Books,Machine Learning Handbook,10.0,,35.52,East,Credit Card,15.0,Not Returned
+ORD-00411,2024-03-05,,Exam Prep Notes,5000.0,7029.07,20.45,East,Net Banking,13.0,Returned
+ORD-02389,2023-08-20,,LED Table Lamp,13.0,6190.27,36.49,,Net Banking,4.0,Not Returned
+ORD-00280,2023-01-28,,Sports Socks,14.0,1197.01,17.24,North,Debit Card,1.0,
+ORD-02437,2024-01-29,Books,Python Programming Guide,16.0,4378.75,7.16,Central,UPI,3.0,
+ORD-01800,19/02/2024,Electronics,Smart Watch,3000.0,2704.52,15.09,Central,Debit Card,7.0,Not Returned
+ORD-00606,,Electronics,,19.0,5342.92,17.57,East,UPI,15.0,
+ORD-02082,17/07/2024,Clothing,Hoodie,,,14.4,West,Debit Card,8.0,Not Returned
+ORD-04224,2024-11-13,Home & Kitchen,Vacuum Flask,13.0,,4.75,South,,10.0,Not Returned
+ORD-00283,2023-07-19,Home & Kitchen,Non-stick Pan,8.0,11794.26,18.89,East,,15.0,Not Returned
+ORD-04810,2024-01-25,Electronics,Smart Watch,18.0,857.15,26.7,Central,Debit Card,,Not Returned
+ORD-02334,22/07/2023,Clothing,,5.0,7024.72,28.69,East,Cash on Delivery,13.0,Not Returned
+ORD-00380,2024-03-17,Sports,Cricket Bat,8.0,5574.99,20.26,North,,10.0,Not Returned
+ORD-02228,24/06/2023,Sports,Skipping Rope,,6395.81,,South,Credit Card,13.0,Not Returned
+ORD-03085,02/01/2023,Electronics,Noise Cancelling Headphones,10.0,,3.56,North,Debit Card,4.0,Returned
+ORD-04362,25/07/2024,Books,Exam Prep Notes,11.0,"₹3,035.72",19.72,North,Debit Card,4.0,Not Returned
+ORD-00038,2023-02-15,Clothing,Denim Jeans,,,15.59,South,Debit Card,11.0,Not Returned
+ORD-03132,29/09/2024,Groceries,Organic Rice,,11640.78,19.46,West,Debit Card,4.0,
+ORD-03192,2023-02-13,Sports,Cricket Bat,19.0,6340.59,9.73,Central,Net Banking,6.0,Pending
+ORD-00367,,Electronics,Laptop Stand,1500.0,"₹9,603.36",30.72,North,Debit Card,8.0,Pending
+ORD-03930,30/06/2023,Beauty,Body Wash,3.0,14502.28,23.45,North,Credit Card,14.0,Not Returned
+ORD-02599,2024-09-21,Clothing,Jacket,1.0,6692.42,20.72,East,,12.0,Not Returned
+ORD-00457,21/09/2023,Books,Motivational Reader,,10812.21,,East,Debit Card,13.0,Not Returned
+ORD-01002,02/11/2024,Clothing,Casual Shirt,2500.0,14135.95,5.02,North,Debit Card,8.0,Not Returned
+ORD-02969,14/06/2023,Books,Python Programming Guide,4.0,9004.71,8.18,West,Net Banking,,Not Returned
+ORD-01228,26/03/2024,Clothing,Casual Shirt,13.0,12240.98,16.64,North,Net Banking,7.0,Returned
+ORD-01976,2023-02-14,Home & Kitchen,LED Table Lamp,8.0,8058.03,34.32,North,UPI,5.0,
+ORD-03379,2023-12-20,Home & Kitchen,Chef Knife,,1760.54,4.37,,Credit Card,9.0,Returned
+ORD-00394,25/02/2024,Beauty,Sunscreen Lotion,17.0,7610.04,39.43,West,UPI,2.0,Not Returned
+ORD-00700,2023-03-07,Home & Kitchen,Storage Box Set,11.0,12496.07,0.14,North,Credit Card,2.0,Not Returned
+ORD-03271,2024-04-06,Beauty,,14.0,5282.49,13.78,North,UPI,8.0,Not Returned
+ORD-04819,2023-06-29,Beauty,Nail Polish Set,12.0,6841.13,-1.22,West,Debit Card,11.0,
+ORD-02579,2023-08-17,Books,Fantasy Novel,1.0,7577.0,35.22,West,Credit Card,4.0,Not Returned
+ORD-03443,08/06/2024,Clothing,Cotton T-Shirt,,13576.03,,North,Credit Card,7.0,
+ORD-00811,17/02/2024,Home & Kitchen,Non-stick Pan,1.0,13937.0,30.51,North,Credit Card,4.0,Not Returned
+ORD-00753,2023-04-09,,Wireless Earbuds,2500.0,₹ 5187.37,,Central,Net Banking,,Not Returned
+ORD-03380,2023-02-28,Groceries,Green Tea Pack,13.0,9793.97,1.92,East,Net Banking,14.0,
+ORD-03320,2023-11-11,,Water Bottle,9.0,8589.7,8.14,East,,14.0,Not Returned
+ORD-03953,02/03/2023,Clothing,Denim Jeans,1.0,4231.28,31.42,East,Credit Card,,Returned
+ORD-02360,2024-12-31,,Storage Box Set,9999.0,11865.08,29.37,Central,,9.0,Not Returned
+ORD-03702,,Beauty,Moisturizing Cream,18.0,974.35,39.98,,Cash on Delivery,8.0,Returned
+ORD-00713,08/10/2023,,Organic Rice,9999.0,13936.91,39.85,South,Credit Card,13.0,
+ORD-01258,,Beauty,Nail Polish Set,1.0,10395.84,26.05,,UPI,,Returned
+ORD-00944,2024-01-17,Beauty,Body Wash,,3382.8,35.07,West,Cash on Delivery,,Not Returned
+ORD-00145,2024-08-18,,Vacuum Flask,,1734.51,10.47,Central,Credit Card,4.0,Not Returned
+ORD-04167,2023-11-01,Clothing,Casual Shirt,11.0,6269.61,7.96,South,,8.0,Pending
+ORD-02370,2024-06-13,Home & Kitchen,Water Bottle,15.0,11870.05,29.29,North,Net Banking,4.0,Not Returned
+ORD-02974,23/03/2024,Home & Kitchen,,10.0,11844.33,34.06,North,Cash on Delivery,3.0,Not Returned
+ORD-02737,2024-04-15,,Coffee Beans,8.0,266.23,9.73,West,Cash on Delivery,8.0,Not Returned
+ORD-03672,2023-12-17,Books,,10.0,,27.18,South,Cash on Delivery,11.0,
+ORD-02680,,Home & Kitchen,Water Bottle,3.0,12770.44,11.8,East,Credit Card,13.0,Not Returned
+ORD-00828,,Electronics,Laptop Stand,9.0,6029.83,30.33,Central,Credit Card,3.0,Not Returned
+ORD-01853,03/08/2023,Electronics,Smart Watch,4.0,2187.28,33.75,East,UPI,14.0,Not Returned
+ORD-04665,2023-12-23,Sports,Skipping Rope,9.0,9797.33,39.92,East,Debit Card,14.0,Not Returned
+ORD-01919,2024-12-09,Beauty,,20.0,3171.03,16.03,North,Net Banking,12.0,Not Returned
+ORD-04404,2024-08-25,Groceries,Olive Oil,3.0,5708.44,17.75,West,Debit Card,1.0,Not Returned
+ORD-04521,2024-04-14,Books,Motivational Reader,1200.0,5163.88,14.5,West,UPI,1.0,Returned
+ORD-01139,04/05/2024,Groceries,,4.0,5346.45,,Central,Cash on Delivery,5.0,Not Returned
+ORD-00635,,Electronics,Noise Cancelling Headphones,15.0,2494.71,35.97,East,Credit Card,9.0,Not Returned
+ORD-01018,2023-09-18,Books,Exam Prep Notes,10.0,11689.79,25.9,North,Debit Card,10.0,Not Returned
+ORD-03010,2024-10-06,Groceries,Protein Bar Pack,4.0,731.83,15.46,West,UPI,9.0,Not Returned
+ORD-00750,2023-04-15,Groceries,,4.0,13646.82,,North,UPI,1.0,Not Returned
+ORD-00594,2023-07-01,Sports,,17.0,1779.51,18.07,South,Credit Card,10.0,Not Returned
+ORD-01875,2023-04-17,Sports,Yoga Mat,13.0,9692.3,-4.13,East,Credit Card,13.0,Not Returned
+ORD-04144,08/05/2024,,Jacket,5.0,2882.82,-8.48,Central,Debit Card,11.0,Not Returned
+ORD-02720,,Groceries,,9999.0,14718.06,4.34,West,Credit Card,2.0,Returned
+ORD-01166,20/12/2023,,Laptop Stand,,,,Central,UPI,7.0,Not Returned
+ORD-00202,18/05/2023,Beauty,,9.0,3961.7,27.7,,Debit Card,15.0,Returned
+ORD-04303,2024-04-19,Groceries,Protein Bar Pack,2.0,14928.65,38.35,South,UPI,10.0,Not Returned
+ORD-02916,,Groceries,Olive Oil,2.0,669.27,2.05,Central,Net Banking,10.0,Not Returned
+ORD-04190,2023-04-29,Books,Data Science Workbook,16.0,2086.16,11.49,West,UPI,9.0,Not Returned
+ORD-00851,2024-12-06,Home & Kitchen,,,"₹11,437.29",5.98,South,Credit Card,14.0,Not Returned
+ORD-03833,,Home & Kitchen,Storage Box Set,2.0,,13.52,Central,UPI,,Not Returned
+ORD-00913,2023-03-02,Clothing,Sports Socks,1.0,5666.65,4.23,West,Debit Card,7.0,
+ORD-00161,2024-12-01,Groceries,,16.0,7464.94,27.14,,Credit Card,,Not Returned
+ORD-01386,12/06/2024,Sports,Yoga Mat,7.0,,0.44,,UPI,14.0,Not Returned
+ORD-01863,04/11/2024,Home & Kitchen,Storage Box Set,5000.0,,0.19,North,Debit Card,2.0,
+ORD-00980,2024-12-08,Clothing,Hoodie,4.0,62.36,14.25,North,,,Not Returned
+ORD-04335,22/12/2024,Clothing,Jacket,4.0,,5.66,West,,3.0,Not Returned
+ORD-03326,03/03/2023,Electronics,Smartphone Charger,8.0,3846.54,33.9,North,Debit Card,1.0,Not Returned
+ORD-01706,,Sports,Skipping Rope,7.0,153.94,-11.18,West,UPI,4.0,Not Returned
+ORD-00641,2024-11-18,Groceries,,16.0,10468.07,2.98,Central,UPI,7.0,Not Returned
+ORD-04423,11/08/2024,Home & Kitchen,Storage Box Set,17.0,₹ 4282.04,20.15,North,Debit Card,5.0,Not Returned
+ORD-01118,31/01/2024,Home & Kitchen,,,12419.43,,North,Credit Card,7.0,Not Returned
+ORD-00948,04/01/2023,Beauty,Moisturizing Cream,13.0,,24.68,Central,UPI,4.0,Pending
+ORD-04098,2024-04-09,Electronics,Noise Cancelling Headphones,8.0,12759.1,33.14,South,Debit Card,15.0,Not Returned
+ORD-02277,2024-09-20,Groceries,Breakfast Cereal,,4720.6,8.5,North,UPI,7.0,Not Returned
+ORD-02601,2024-11-21,Sports,Gym Gloves,9.0,3948.04,,Central,Net Banking,,Not Returned
+ORD-02308,12/03/2024,Clothing,Cotton T-Shirt,,"₹14,649.99",28.9,North,Credit Card,12.0,Not Returned
+ORD-01721,10/01/2023,Sports,Football,9.0,,38.54,East,UPI,,Not Returned
+ORD-01824,,Beauty,Hair Serum,1.0,2346.22,9.96,,Cash on Delivery,7.0,Not Returned
+ORD-02246,2023-06-21,Home & Kitchen,Non-stick Pan,,4882.67,16.79,North,UPI,7.0,Not Returned
+ORD-01978,2023-12-27,Home & Kitchen,Chef Knife,12.0,5462.04,,South,,,Not Returned
+ORD-04667,2023-11-19,Groceries,Green Tea Pack,,9742.76,34.43,Central,Debit Card,1.0,Not Returned
+ORD-02179,13/03/2023,Groceries,Coffee Beans,11.0,₹ 11923.24,23.26,West,,4.0,
+ORD-00776,25/05/2024,Groceries,Pasta Bundle,5.0,98.25,28.63,South,UPI,14.0,Not Returned
+ORD-00735,14/11/2024,Books,Exam Prep Notes,19.0,1541.1,38.2,West,Cash on Delivery,15.0,Not Returned
+ORD-02108,2023-12-22,,Fantasy Novel,9.0,7032.63,27.19,South,UPI,10.0,Not Returned
+ORD-03135,28/12/2024,Sports,Skipping Rope,8.0,4732.78,1.1,West,UPI,10.0,Not Returned
+ORD-04274,17/11/2024,Electronics,Wireless Earbuds,10.0,,19.26,Central,Debit Card,6.0,Not Returned
+ORD-04225,13/10/2024,Groceries,Pasta Bundle,6.0,,7.8,West,,12.0,Not Returned
+ORD-04158,,Home & Kitchen,LED Table Lamp,5.0,9380.47,38.67,Central,UPI,3.0,Not Returned
+ORD-00066,,Books,,8.0,1909.32,29.5,West,Net Banking,9.0,Not Returned
+ORD-00955,2023-05-28,Home & Kitchen,Storage Box Set,1500.0,"₹6,110.27",19.24,,Credit Card,8.0,
+ORD-01383,11/11/2023,Clothing,Denim Jeans,,5677.03,36.43,Central,Net Banking,4.0,Not Returned
+ORD-02544,2024-08-24,,Motivational Reader,6.0,,38.68,West,Credit Card,12.0,Not Returned
+ORD-04296,2024-03-23,Beauty,Lip Balm,10.0,₹ 6897.42,,,,13.0,Not Returned
+ORD-04059,17/10/2024,Beauty,Sunscreen Lotion,16.0,₹4999.87,,North,,11.0,Not Returned
+ORD-03914,2024-10-05,Sports,Cricket Bat,15.0,,25.36,West,Debit Card,2.0,
+ORD-04480,2024-11-15,Beauty,Moisturizing Cream,,5935.34,36.2,Central,Cash on Delivery,6.0,Not Returned
+ORD-02117,,,LED Table Lamp,1500.0,5137.61,1.03,South,UPI,14.0,Not Returned
+ORD-01152,2023-11-05,Sports,Gym Gloves,7.0,5829.29,25.44,West,Debit Card,1.0,Not Returned
+ORD-00591,,Books,Data Science Workbook,5.0,3340.53,21.25,East,UPI,15.0,Not Returned
+ORD-00320,,Home & Kitchen,LED Table Lamp,2.0,,26.99,East,Credit Card,15.0,Pending
+ORD-01438,16/03/2023,Electronics,USB-C Cable,4.0,,25.66,Central,Debit Card,,Not Returned
+ORD-01912,01/05/2024,Electronics,Smart Watch,9.0,,7.23,North,Credit Card,6.0,Not Returned
+ORD-02405,2024-07-29,,Lip Balm,,874.35,29.81,South,UPI,9.0,Not Returned
+ORD-03691,2023-01-22,Sports,Dumbbell Set,18.0,6409.44,33.66,West,UPI,9.0,Not Returned
+ORD-00632,20/06/2023,Home & Kitchen,Chef Knife,14.0,2583.99,31.82,North,Credit Card,2.0,Not Returned
+ORD-02796,30/03/2023,Clothing,Cotton T-Shirt,14.0,10369.6,25.16,South,,13.0,Returned
+ORD-03627,18/04/2023,,Jacket,1500.0,,,,Debit Card,13.0,Not Returned
+ORD-01078,2024-07-17,Books,,,2116.86,32.84,North,Credit Card,1.0,Not Returned
+ORD-03264,2024-12-21,Beauty,Face Cleanser,7.0,10062.77,13.59,South,UPI,13.0,
+ORD-04506,20/06/2023,Beauty,Sunscreen Lotion,15.0,12616.55,9.85,,UPI,14.0,Not Returned
+ORD-04373,2024-01-09,Groceries,,15.0,11446.02,34.98,North,Credit Card,7.0,Not Returned
+ORD-00449,,Electronics,Laptop Stand,8.0,15000.0,0.72,Central,UPI,1.0,Not Returned
+ORD-04220,2024-01-14,Books,History Reference Book,7.0,,,,UPI,12.0,Not Returned
+ORD-00791,2023-01-26,Sports,Dumbbell Set,9999.0,2557.82,,,,,Not Returned
+ORD-00093,2023-05-20,Clothing,Hoodie,,6804.58,29.0,South,Debit Card,14.0,Not Returned
+ORD-03211,,,,10.0,1760.68,3.03,,Credit Card,7.0,Not Returned
+ORD-03190,2023-07-17,Groceries,Green Tea Pack,4.0,4515.64,29.96,West,UPI,5.0,Not Returned
+ORD-01753,2024-06-07,Sports,Tennis Racquet,8.0,,31.56,East,Debit Card,11.0,Not Returned
+ORD-00901,,Clothing,Jacket,9.0,,15.36,West,,,Not Returned
+ORD-02178,2023-06-22,Clothing,Cotton T-Shirt,1500.0,6259.3,-6.84,North,Debit Card,2.0,
+ORD-01417,2024-01-26,Home & Kitchen,LED Table Lamp,4.0,,10.84,West,UPI,4.0,Not Returned
+ORD-02230,10/07/2023,Sports,,,4293.13,,North,UPI,6.0,Pending
+ORD-00080,2023-06-30,Home & Kitchen,Vacuum Flask,3.0,7598.61,22.21,West,,6.0,Not Returned
+ORD-02465,,Sports,,2.0,14387.1,,West,Credit Card,8.0,Not Returned
+ORD-03314,2023-02-08,Beauty,Face Cleanser,12.0,,,North,Debit Card,4.0,Not Returned
+ORD-00751,28/10/2023,Books,,14.0,1506.78,25.72,South,UPI,15.0,Pending
+ORD-04469,,,Dumbbell Set,19.0,3369.67,14.98,North,,7.0,Not Returned
+ORD-03453,2024-08-12,Home & Kitchen,Vacuum Flask,1.0,9904.23,38.69,Central,,1.0,Not Returned
+ORD-04014,28/09/2024,Clothing,Running Shorts,,,-2.26,Central,Cash on Delivery,10.0,Not Returned
+ORD-03539,,Groceries,Coffee Beans,14.0,7777.06,,North,Credit Card,12.0,Not Returned
+ORD-00568,2024-06-28,,Organic Rice,16.0,,35.77,West,Net Banking,,Not Returned
+ORD-01842,2023-07-10,Books,Motivational Reader,13.0,4939.09,27.32,North,Debit Card,3.0,Not Returned
+ORD-02204,2024-01-14,Home & Kitchen,Dish Rack,10.0,6469.25,16.15,,Cash on Delivery,,Not Returned
+ORD-01859,2023-08-22,Clothing,Running Shorts,3000.0,8139.73,1.22,East,Credit Card,,Not Returned
+ORD-00974,,Sports,Skipping Rope,18.0,,14.05,West,Debit Card,8.0,Not Returned
+ORD-01164,01/12/2024,Clothing,Running Shorts,17.0,8760.72,5.55,West,Debit Card,3.0,Not Returned
+ORD-00903,2024-10-23,Groceries,Olive Oil,8.0,10832.86,-9.52,Central,UPI,2.0,Not Returned
+ORD-03337,01/02/2023,Home & Kitchen,Chef Knife,,7821.15,7.43,West,Net Banking,2.0,Not Returned
+ORD-01587,2024-03-08,Sports,Tennis Racquet,,6242.99,-0.84,,,11.0,Not Returned
+ORD-03207,24/02/2024,Books,Data Science Workbook,5.0,11334.07,38.53,West,Net Banking,,Not Returned
+ORD-02096,2024-03-31,,Hoodie,17.0,10605.93,11.28,Central,Debit Card,3.0,Pending
+ORD-04363,2024-04-08,,Breakfast Cereal,11.0,5598.72,3.81,West,Net Banking,4.0,Not Returned
+ORD-01213,,,Dumbbell Set,,6485.95,25.79,West,Debit Card,2.0,Returned
+ORD-02925,2024-07-17,Groceries,Breakfast Cereal,9.0,6309.81,36.29,Central,,4.0,Not Returned
+ORD-01684,2024-12-21,Clothing,Casual Shirt,5000.0,308.41,9.81,East,Credit Card,,Returned
+ORD-03875,,Beauty,Moisturizing Cream,18.0,6831.79,19.07,,Cash on Delivery,,Not Returned
+ORD-02190,2024-03-14,Home & Kitchen,Dish Rack,17.0,,20.6,South,Debit Card,15.0,
+ORD-03389,2023-02-10,Electronics,Laptop Stand,14.0,10964.48,2.1,,Net Banking,10.0,Returned
+ORD-00278,2024-02-22,Beauty,Moisturizing Cream,15.0,14692.09,2.48,East,,14.0,
+ORD-00668,2024-10-11,Sports,Yoga Mat,19.0,6841.15,18.6,North,UPI,,Not Returned
+ORD-02637,06/06/2024,Clothing,Casual Shirt,5.0,11147.77,11.19,West,Credit Card,6.0,Not Returned
+ORD-00301,2024-10-21,Electronics,Wireless Earbuds,1500.0,10816.89,7.6,,UPI,12.0,Not Returned
+ORD-01335,2024-04-23,Beauty,Sunscreen Lotion,,6027.37,9.84,,UPI,5.0,Not Returned
+ORD-00549,2024-05-04,Books,Motivational Reader,1500.0,2967.15,14.77,West,Credit Card,4.0,Not Returned
+ORD-01197,2023-10-26,,Fantasy Novel,17.0,13601.49,6.25,North,Credit Card,11.0,Not Returned
+ORD-03991,2023-02-05,,Hair Serum,8.0,14214.99,14.18,South,UPI,12.0,Returned
+ORD-02348,05/12/2024,Home & Kitchen,Water Bottle,15.0,,32.08,West,UPI,14.0,Not Returned
+ORD-03368,2023-03-13,Home & Kitchen,Non-stick Pan,10.0,11473.55,33.35,East,Credit Card,14.0,
+ORD-01778,,Groceries,Breakfast Cereal,15.0,12871.33,28.27,South,,12.0,Not Returned
+ORD-00739,29/05/2023,Clothing,Jacket,8.0,1563.88,8.4,East,UPI,13.0,Not Returned
+ORD-03055,08/08/2024,Clothing,Running Shorts,17.0,12713.57,17.42,,,11.0,Not Returned
+ORD-00212,31/10/2023,Groceries,Organic Rice,7.0,12330.65,34.08,North,,5.0,Not Returned
+ORD-00732,30/06/2023,Beauty,,5.0,2878.09,36.76,South,UPI,12.0,Not Returned
+ORD-03813,2024-04-24,Home & Kitchen,Non-stick Pan,14.0,9159.24,14.94,Central,UPI,4.0,Returned
+ORD-03982,2024-09-02,Books,History Reference Book,1200.0,₹ 9118.94,38.61,North,Debit Card,1.0,Not Returned
+ORD-02379,2024-11-05,Beauty,Face Cleanser,5.0,11064.79,-14.43,South,UPI,13.0,Returned
+ORD-00447,2024-12-29,,,12.0,2826.09,18.78,East,Credit Card,15.0,Not Returned
+ORD-04736,2024-12-07,,Face Cleanser,12.0,8492.92,19.34,,Credit Card,1.0,Pending
+ORD-02235,2023-01-17,Home & Kitchen,Dish Rack,10.0,,0.49,North,Credit Card,3.0,Not Returned
+ORD-03411,2023-11-18,Electronics,Smart Watch,13.0,,33.7,,Net Banking,2.0,Returned
+ORD-03521,,Sports,Cricket Bat,13.0,4496.98,30.59,West,UPI,6.0,Not Returned
+ORD-00763,2023-11-19,Home & Kitchen,Storage Box Set,14.0,2297.28,31.66,East,Net Banking,15.0,Not Returned
+ORD-04632,,Sports,Yoga Mat,10.0,,35.24,East,,14.0,
+ORD-01322,12/11/2024,Electronics,Laptop Stand,15.0,,4.14,Central,Credit Card,5.0,Not Returned
+ORD-04154,24/04/2023,Groceries,Organic Rice,15.0,9010.67,18.03,East,Debit Card,10.0,Not Returned
+ORD-03474,2023-07-23,Groceries,,7.0,187.61,14.97,South,Debit Card,,Not Returned
+ORD-04654,16/10/2023,,Yoga Mat,3.0,₹ 14785.79,14.41,North,Credit Card,1.0,Not Returned
+ORD-00460,,,Sunscreen Lotion,3.0,9603.66,10.98,North,,10.0,Returned
+ORD-01979,2024-11-16,,Chef Knife,,3578.08,,Central,Net Banking,3.0,Not Returned
+ORD-03461,20/04/2024,Home & Kitchen,Non-stick Pan,16.0,357.13,31.56,,Debit Card,1.0,Not Returned
+ORD-02520,2023-12-14,Groceries,,11.0,,19.29,West,Credit Card,1.0,Not Returned
+ORD-02386,2023-02-09,Groceries,Breakfast Cereal,8.0,14589.48,8.83,West,Cash on Delivery,8.0,
+ORD-00238,2023-06-19,Groceries,Coffee Beans,13.0,13986.33,12.93,Central,UPI,4.0,Not Returned
+ORD-01981,2024-07-27,Books,Machine Learning Handbook,13.0,5030.98,,South,Cash on Delivery,15.0,Not Returned
+ORD-00418,15/04/2023,Electronics,,16.0,,20.26,North,UPI,,Not Returned
+ORD-03392,2024-10-03,Beauty,Lip Balm,11.0,3062.54,13.63,Central,Debit Card,2.0,Pending
+ORD-03305,2023-07-20,Sports,Football,8.0,4390.77,36.31,West,Credit Card,2.0,Not Returned
+ORD-00631,2024-03-02,Sports,Skipping Rope,2.0,8346.84,30.65,West,UPI,,Not Returned
+ORD-01123,2023-03-12,Beauty,,2.0,11009.42,26.14,Central,UPI,4.0,Not Returned
+ORD-03304,2023-12-12,,Exam Prep Notes,5.0,,29.56,West,Credit Card,,Not Returned
+ORD-01297,22/05/2023,Sports,Football,20.0,5453.24,,West,Debit Card,1.0,Pending
+ORD-04151,,Electronics,Smartphone Charger,10.0,6463.92,,East,Debit Card,13.0,Not Returned
+ORD-04182,2023-12-05,Groceries,Protein Bar Pack,,8080.47,13.24,West,Debit Card,1.0,Pending
+ORD-01103,02/02/2024,Electronics,Smart Watch,13.0,14710.34,6.78,West,Credit Card,3.0,Not Returned
+ORD-03442,2023-11-22,Beauty,Hair Serum,4.0,2559.26,0.01,,Credit Card,5.0,Not Returned
+ORD-03775,2024-12-23,Sports,Football,,3740.55,38.48,South,Credit Card,9.0,Not Returned
+ORD-00765,03/12/2023,,Running Shorts,2.0,1098.06,39.93,South,Cash on Delivery,12.0,Not Returned
+ORD-00989,13/08/2023,Sports,Cricket Bat,2.0,12134.23,0.88,East,Net Banking,12.0,Not Returned
+ORD-03676,2024-01-11,Sports,Yoga Mat,12.0,593.8,1.68,North,Debit Card,2.0,Pending
+ORD-02931,07/07/2024,Books,,1.0,6319.32,35.37,Central,Cash on Delivery,9.0,Not Returned
+ORD-03370,30/08/2024,Electronics,Wireless Earbuds,20.0,6306.8,10.72,South,Debit Card,14.0,Not Returned
+ORD-03098,25/05/2024,Clothing,Casual Shirt,16.0,2543.04,21.79,East,Debit Card,11.0,Not Returned
+ORD-00472,2023-11-16,Sports,Gym Gloves,,,37.08,North,,5.0,Not Returned
+ORD-01494,2023-05-18,Beauty,Lip Balm,2.0,10704.08,18.35,South,UPI,14.0,
+ORD-02085,23/12/2023,Clothing,Running Shorts,9.0,5212.29,18.76,,,10.0,Not Returned
+ORD-00823,2023-07-30,Books,Motivational Reader,19.0,₹4929.38,31.26,South,UPI,14.0,Pending
+ORD-02841,2024-09-05,Groceries,Olive Oil,13.0,₹1036.38,-12.12,East,UPI,15.0,
+ORD-04550,18/11/2024,Books,Data Science Workbook,18.0,12275.22,25.32,North,Debit Card,5.0,Returned
+ORD-01691,2024-03-25,Groceries,Pasta Bundle,,14334.15,32.52,East,,14.0,
+ORD-00907,,Sports,,,11336.69,28.76,West,Debit Card,1.0,Not Returned
+ORD-00761,02/04/2023,,Sunscreen Lotion,7.0,6786.48,32.33,Central,Debit Card,1.0,Not Returned
+ORD-00681,23/06/2023,Books,Python Programming Guide,19.0,,16.67,,UPI,15.0,Not Returned
+ORD-01076,2024-01-28,Electronics,USB-C Cable,,4128.29,,Central,UPI,10.0,Not Returned
+ORD-02901,,Beauty,Face Cleanser,14.0,3543.22,28.42,West,UPI,7.0,Pending
+ORD-04191,11/01/2023,Home & Kitchen,Chef Knife,1.0,"₹2,394.55",17.69,South,Net Banking,14.0,Not Returned
+ORD-03069,10/12/2023,Beauty,Lip Balm,16.0,,6.75,West,Credit Card,,Not Returned
+ORD-04800,2024-02-07,Beauty,,20.0,10510.5,,East,Cash on Delivery,,Not Returned
+ORD-03012,2023-11-02,Beauty,Lip Balm,1500.0,6290.71,4.77,South,UPI,13.0,Returned
+ORD-04402,,Sports,Gym Gloves,4.0,,5.92,East,Cash on Delivery,,Not Returned
+ORD-02927,05/11/2024,Home & Kitchen,Storage Box Set,16.0,5958.49,38.19,North,UPI,4.0,
+ORD-04726,23/08/2023,,Green Tea Pack,,12356.99,32.98,South,,12.0,Not Returned
+ORD-00711,2024-04-19,Home & Kitchen,,3.0,4686.49,16.45,Central,Net Banking,,Not Returned
+ORD-04155,2024-09-22,Home & Kitchen,Non-stick Pan,,6416.62,,Central,Debit Card,3.0,Not Returned
+ORD-00666,2023-12-06,Electronics,Smart Watch,18.0,4735.47,39.55,South,,13.0,Pending
+ORD-04183,2023-04-10,Sports,Cricket Bat,17.0,9258.39,30.43,North,Cash on Delivery,9.0,Not Returned
+ORD-03548,2024-04-21,Clothing,Denim Jeans,20.0,12991.7,30.58,North,Debit Card,7.0,Not Returned
+ORD-00538,2024-12-20,Groceries,Olive Oil,20.0,7348.86,25.08,Central,UPI,3.0,Not Returned
+ORD-03449,2023-06-04,Sports,Tennis Racquet,20.0,8521.99,-7.38,East,Debit Card,15.0,Not Returned
+ORD-04631,2024-04-23,,Water Bottle,16.0,2329.9,-12.96,East,Cash on Delivery,11.0,Not Returned
+ORD-01231,2023-01-22,Beauty,Hair Serum,,₹2757.08,28.78,West,UPI,1.0,Not Returned
+ORD-04565,01/10/2023,Books,,12.0,12161.2,31.79,East,Debit Card,11.0,Not Returned
+ORD-02706,,Clothing,Hoodie,,8990.51,20.5,Central,Net Banking,2.0,Not Returned
+ORD-00669,26/02/2024,Electronics,Smartphone Charger,19.0,,16.88,Central,,4.0,Not Returned
+ORD-04117,,Beauty,Moisturizing Cream,7.0,10830.23,,North,UPI,1.0,Not Returned
+ORD-03137,,Books,Python Programming Guide,12.0,4801.13,29.31,South,UPI,12.0,Not Returned
+ORD-00011,24/04/2023,Sports,Skipping Rope,15.0,8375.32,28.06,North,UPI,9.0,Not Returned
+ORD-03254,09/11/2024,Sports,Tennis Racquet,2.0,2691.99,5.83,North,Cash on Delivery,5.0,Not Returned
+ORD-04102,26/03/2024,Home & Kitchen,Water Bottle,6.0,2483.06,16.73,North,Credit Card,9.0,Returned
+ORD-03229,2023-12-18,Electronics,Laptop Stand,10.0,11682.45,28.14,North,Credit Card,,
+ORD-00622,,Beauty,Moisturizing Cream,,11221.44,6.52,West,Credit Card,9.0,Not Returned
+ORD-03393,2023-09-27,Books,,1.0,12803.84,24.9,West,Debit Card,,Not Returned
+ORD-01770,08/05/2024,Beauty,Lip Balm,6.0,12999.11,13.88,West,,2.0,Not Returned
+ORD-01923,10/08/2024,Books,Python Programming Guide,5.0,,39.43,West,Debit Card,6.0,Not Returned
+ORD-00566,2023-11-17,Clothing,Hoodie,15.0,4791.94,2.57,East,,,Returned
+ORD-02306,20/06/2023,Groceries,,14.0,464.85,24.45,West,Debit Card,2.0,Not Returned
+ORD-02415,22/06/2023,Sports,,14.0,4143.2,7.94,East,Credit Card,13.0,
+ORD-03484,10/04/2024,Clothing,Casual Shirt,15.0,6283.17,-8.66,Central,Credit Card,6.0,
+ORD-04180,2024-09-29,Groceries,Pasta Bundle,9.0,2734.02,-10.2,North,Debit Card,1.0,Pending
+ORD-00835,,Groceries,Green Tea Pack,6.0,1329.59,15.38,Central,UPI,,Not Returned
+ORD-00643,,Clothing,Running Shorts,18.0,6182.37,37.97,East,Debit Card,15.0,Not Returned
+ORD-02776,2023-04-07,Home & Kitchen,,14.0,2441.53,37.67,West,,8.0,Pending
+ORD-03360,2023-11-21,Books,Motivational Reader,1.0,7808.73,26.46,East,UPI,12.0,Not Returned
+ORD-04074,2023-01-10,Clothing,,3.0,14325.64,-8.47,East,Debit Card,13.0,Not Returned
+ORD-00925,15/06/2024,Books,Exam Prep Notes,3.0,4494.55,4.9,West,Credit Card,2.0,Returned
+ORD-04477,,Groceries,Protein Bar Pack,1.0,₹ 12530.94,19.75,,Debit Card,7.0,Not Returned
+ORD-02870,,Sports,Yoga Mat,,11343.61,,South,Credit Card,9.0,Returned
+ORD-03146,2023-02-10,Electronics,USB-C Cable,16.0,925.47,33.0,,Debit Card,4.0,Not Returned
+ORD-03435,2023-09-14,Beauty,Moisturizing Cream,18.0,6172.45,16.91,North,Credit Card,,Not Returned
+ORD-00120,2024-10-23,Electronics,Bluetooth Speaker,18.0,2458.07,,South,Net Banking,10.0,Not Returned
+ORD-03826,23/06/2023,Sports,Tennis Racquet,9.0,8174.23,11.02,North,Debit Card,6.0,Not Returned
+ORD-03453,2024-04-20,Sports,Cricket Bat,1.0,5661.24,21.1,,,2.0,Not Returned
+ORD-03302,09/02/2023,,Body Wash,2.0,11898.84,18.08,North,Debit Card,4.0,Not Returned
+ORD-00410,,Books,Motivational Reader,4.0,,,,,,Not Returned
+ORD-00002,28/10/2023,Sports,Tennis Racquet,15.0,11884.99,,East,Debit Card,13.0,Not Returned
+ORD-04774,2024-12-11,,,6.0,,34.87,North,UPI,6.0,
+ORD-00532,,,Skipping Rope,15.0,4156.14,24.04,North,Credit Card,1.0,Not Returned
+ORD-02057,2023-07-23,Beauty,Sunscreen Lotion,9.0,5316.93,-6.06,East,Debit Card,11.0,Not Returned
+ORD-01373,2024-09-26,Sports,Dumbbell Set,15.0,11731.34,33.94,West,Net Banking,5.0,
+ORD-03676,,Home & Kitchen,Dish Rack,10.0,7855.96,20.19,South,UPI,15.0,Not Returned
+ORD-04370,2024-06-21,Groceries,Green Tea Pack,9.0,11321.24,30.47,,,,
+ORD-00552,06/01/2024,Groceries,Organic Rice,17.0,13979.56,,West,,12.0,Not Returned
+ORD-01274,2024-09-25,Sports,Skipping Rope,20.0,11257.57,,West,Credit Card,13.0,
+ORD-02150,2024-01-15,Books,,18.0,6221.92,9.58,North,UPI,4.0,Not Returned
+ORD-00778,2023-06-20,Clothing,Sports Socks,1500.0,3017.32,37.53,South,Cash on Delivery,15.0,
+ORD-00887,28/02/2024,Sports,Gym Gloves,9999.0,902.81,,Central,UPI,10.0,Pending
+ORD-04345,2023-10-16,Sports,Football,20.0,2469.92,36.34,East,UPI,9.0,
+ORD-01489,01/10/2024,Groceries,Pasta Bundle,12.0,8615.16,19.2,South,Debit Card,,Not Returned
+ORD-02106,06/02/2024,Home & Kitchen,Vacuum Flask,11.0,14164.96,,West,Credit Card,2.0,Not Returned
+ORD-02167,2023-12-14,,Laptop Stand,10.0,11647.92,,South,Credit Card,12.0,Not Returned
+ORD-03649,01/01/2024,Sports,Skipping Rope,3000.0,10332.92,33.4,East,,,Returned
+ORD-01457,2023-04-25,Home & Kitchen,LED Table Lamp,13.0,513.31,2.81,South,,15.0,Not Returned
+ORD-02356,2023-05-30,Books,Machine Learning Handbook,1.0,3268.32,,,Debit Card,5.0,Not Returned
+ORD-02191,2024-11-27,Groceries,Green Tea Pack,3.0,,11.47,East,Debit Card,,Not Returned
+ORD-03937,,Beauty,Moisturizing Cream,16.0,,30.68,West,Net Banking,2.0,Not Returned
+ORD-01880,,Groceries,Coffee Beans,13.0,1455.43,-9.32,East,UPI,9.0,Not Returned
+ORD-02250,2024-11-19,Beauty,Sunscreen Lotion,13.0,"₹11,795.86",37.89,North,Credit Card,,Not Returned
+ORD-00786,07/01/2023,Home & Kitchen,Vacuum Flask,15.0,641.71,27.54,North,UPI,,Not Returned
+ORD-02398,23/03/2024,Groceries,Green Tea Pack,9.0,5116.14,25.84,East,,14.0,Not Returned
+ORD-02637,2024-02-05,,Nail Polish Set,,,,South,,11.0,Not Returned
+ORD-03851,01/11/2023,,Dish Rack,10.0,8404.85,13.29,,Cash on Delivery,7.0,Not Returned
+ORD-03383,2024-05-28,Electronics,Bluetooth Speaker,15.0,8447.82,18.05,,Net Banking,12.0,Not Returned
+ORD-03960,09/08/2024,Beauty,Lip Balm,12.0,13794.29,17.74,South,UPI,14.0,Not Returned
+ORD-04677,2023-03-20,Home & Kitchen,Chef Knife,11.0,10542.79,1.66,South,UPI,14.0,Returned
+ORD-00469,,Home & Kitchen,Dish Rack,,₹ 4919.73,38.1,Central,Debit Card,7.0,Not Returned
+ORD-03361,2024-07-03,Home & Kitchen,LED Table Lamp,16.0,4802.15,6.97,West,Net Banking,8.0,
+ORD-00225,29/11/2023,Electronics,,11.0,₹ 5765.68,13.73,West,UPI,,Not Returned
+ORD-03355,30/05/2024,,Coffee Beans,12.0,,12.06,East,Debit Card,14.0,Not Returned
+ORD-04513,10/01/2024,Beauty,,,2818.34,2.63,East,UPI,13.0,Not Returned
+ORD-00958,13/09/2024,Clothing,Cotton T-Shirt,18.0,10876.33,,South,Net Banking,10.0,Not Returned
+ORD-01993,2024-08-10,,Gym Gloves,15.0,,-7.88,,Debit Card,12.0,Not Returned
+ORD-02459,2024-01-04,Sports,,17.0,13271.06,,,Credit Card,11.0,Not Returned
+ORD-01501,27/03/2023,Clothing,Casual Shirt,5.0,14766.67,34.84,North,Credit Card,,Not Returned
+ORD-02480,11/04/2023,Electronics,Noise Cancelling Headphones,16.0,14112.87,38.43,West,,,Not Returned
+ORD-01767,2024-11-14,Electronics,Smartphone Charger,,7242.35,6.13,East,Credit Card,13.0,Not Returned
+ORD-02256,2023-03-21,Clothing,Denim Jeans,,11818.28,18.62,North,UPI,1.0,Not Returned
+ORD-03799,2023-01-03,Sports,Cricket Bat,14.0,14079.76,22.62,,UPI,6.0,Not Returned
+ORD-00573,11/06/2023,Electronics,Bluetooth Speaker,7.0,₹ 12811.52,2.48,West,Debit Card,3.0,Not Returned
+ORD-03377,2023-08-16,Beauty,Sunscreen Lotion,9.0,11264.05,21.2,West,Debit Card,11.0,Not Returned
+ORD-03466,03/09/2023,Books,History Reference Book,10.0,,39.35,West,Credit Card,12.0,
+ORD-00089,,Sports,Football,3.0,5601.69,13.56,North,,,
+ORD-03307,26/03/2024,Home & Kitchen,Chef Knife,13.0,,-8.51,Central,Cash on Delivery,,
+ORD-03483,2023-07-25,Electronics,,13.0,6742.04,29.0,East,Net Banking,15.0,Returned
+ORD-02206,12/08/2023,Beauty,Body Wash,12.0,7646.86,17.95,North,,10.0,Not Returned
+ORD-02873,,Groceries,Organic Rice,15.0,,,East,UPI,10.0,Not Returned
+ORD-02062,2023-10-15,Beauty,Lip Balm,19.0,,23.04,South,Debit Card,14.0,Not Returned
+ORD-03664,20/10/2023,Books,Fantasy Novel,1.0,8232.61,1.34,South,Credit Card,11.0,Not Returned
+ORD-00852,2024-03-25,Beauty,Lip Balm,7.0,8248.0,21.73,West,Debit Card,8.0,Pending
+ORD-01257,30/08/2024,Books,Python Programming Guide,10.0,,2.65,,UPI,15.0,Returned
+ORD-03135,20/11/2024,,Pasta Bundle,16.0,13262.57,2.8,East,Debit Card,14.0,Not Returned
+ORD-03086,,Books,Exam Prep Notes,13.0,13333.2,7.98,Central,Net Banking,8.0,Not Returned
+ORD-02981,2023-05-26,Home & Kitchen,,10.0,730.33,18.71,South,Debit Card,15.0,
+ORD-02278,17/10/2024,Home & Kitchen,Water Bottle,9.0,8731.14,7.9,,UPI,10.0,Not Returned
+ORD-04857,2024-03-22,,Smart Watch,1.0,7252.77,38.01,,,9.0,Not Returned
+ORD-02732,2024-12-06,,Coffee Beans,7.0,11657.9,32.25,,UPI,,Not Returned
+ORD-01071,2023-02-22,Books,Exam Prep Notes,1500.0,3180.56,9.96,North,Debit Card,11.0,
+ORD-03626,2024-11-21,Books,Exam Prep Notes,,2724.52,18.42,East,UPI,11.0,
+ORD-03268,19/06/2023,Sports,Tennis Racquet,8.0,,20.19,South,Credit Card,15.0,Not Returned
+ORD-00076,,Beauty,Hair Serum,4.0,,7.17,Central,,6.0,Not Returned
+ORD-00089,2023-12-23,,Motivational Reader,20.0,12117.8,,,Credit Card,7.0,Not Returned
+ORD-00978,19/01/2024,,Laptop Stand,19.0,2188.3,32.18,South,Debit Card,8.0,
+ORD-00862,05/11/2024,Clothing,Cotton T-Shirt,9999.0,6063.8,18.34,South,Debit Card,13.0,Not Returned
+ORD-04526,,Groceries,Pasta Bundle,10.0,612.59,38.63,,Debit Card,7.0,
+ORD-00629,02/01/2023,Beauty,Moisturizing Cream,7.0,4929.71,26.22,West,Credit Card,2.0,Not Returned
+ORD-03130,2023-12-08,Books,,17.0,,23.34,Central,UPI,2.0,Not Returned
+ORD-04014,13/04/2024,,Machine Learning Handbook,9.0,5246.45,36.34,Central,Debit Card,12.0,Not Returned
+ORD-02296,2024-12-24,Beauty,Face Cleanser,7.0,4289.28,18.88,,Net Banking,9.0,Pending
+ORD-03624,2023-04-21,Home & Kitchen,Storage Box Set,12.0,5419.78,29.67,East,UPI,14.0,Not Returned
+ORD-02447,08/09/2023,Clothing,Casual Shirt,15.0,3830.47,38.24,West,UPI,3.0,Returned
+ORD-01282,21/10/2024,Sports,Yoga Mat,9.0,₹ 10355.33,,East,Credit Card,15.0,Not Returned
+ORD-01839,02/12/2023,Sports,Yoga Mat,7.0,12385.04,12.96,North,UPI,11.0,Pending
+ORD-04051,2024-05-10,Books,Machine Learning Handbook,11.0,,31.55,West,Credit Card,6.0,Not Returned
+ORD-00516,2023-05-19,Home & Kitchen,,1.0,,12.63,West,Debit Card,2.0,Not Returned
+ORD-04801,12/12/2024,Beauty,Lip Balm,7.0,10688.28,,West,UPI,6.0,
+ORD-04463,2023-04-28,,,2.0,,0.39,West,UPI,4.0,Returned
+ORD-01026,2024-08-04,Electronics,Bluetooth Speaker,3.0,7905.63,22.12,East,UPI,13.0,
+ORD-00400,24/10/2024,Clothing,Casual Shirt,17.0,,20.35,North,Credit Card,7.0,Pending
+ORD-02900,,Home & Kitchen,Storage Box Set,1.0,1906.57,34.05,North,UPI,13.0,Not Returned
+ORD-04297,2023-04-04,,Breakfast Cereal,17.0,7132.97,9.59,Central,,7.0,Not Returned
+ORD-03505,14/12/2023,Beauty,Sunscreen Lotion,12.0,11842.13,,North,Debit Card,11.0,
+ORD-01739,,Books,History Reference Book,12.0,,27.79,,Credit Card,12.0,Not Returned
+ORD-01215,2024-06-08,Electronics,Smartphone Charger,12.0,8972.44,,East,Cash on Delivery,14.0,Not Returned
+ORD-04642,,Beauty,Body Wash,2.0,2201.4,33.84,,Cash on Delivery,1.0,Not Returned
+ORD-02718,2023-11-16,Beauty,Lip Balm,3.0,,4.53,West,Credit Card,,Not Returned
+ORD-04700,2023-10-25,Home & Kitchen,Dish Rack,18.0,1206.21,32.25,Central,Debit Card,8.0,Not Returned
+ORD-03295,,Clothing,Denim Jeans,8.0,2090.95,16.99,Central,Cash on Delivery,4.0,Not Returned
+ORD-04574,2024-08-26,Books,History Reference Book,7.0,12792.61,14.72,South,,11.0,Not Returned
+ORD-01399,2024-09-12,Clothing,Running Shorts,12.0,3493.22,17.59,North,UPI,4.0,Not Returned
+ORD-02300,2024-06-04,Clothing,,12.0,11840.06,,Central,Debit Card,11.0,Not Returned
+ORD-02028,2023-06-01,Home & Kitchen,,10.0,13186.67,26.35,North,,7.0,Not Returned
+ORD-04486,2023-03-08,Groceries,Green Tea Pack,8.0,3364.6,6.72,,UPI,10.0,Not Returned
+ORD-03818,2024-11-10,Groceries,Green Tea Pack,9999.0,5987.47,,South,Net Banking,8.0,Not Returned
+ORD-02711,,Books,History Reference Book,4.0,10785.14,15.83,West,,,Not Returned
+ORD-00585,2023-06-03,Groceries,Organic Rice,10.0,₹ 671.42,9.0,East,Credit Card,15.0,Returned
+ORD-02914,2023-01-05,Beauty,Face Cleanser,,9239.61,34.85,South,,,Not Returned
+ORD-00314,,Home & Kitchen,Vacuum Flask,8.0,7057.12,17.77,East,Cash on Delivery,13.0,Not Returned
+ORD-03042,2024-08-20,Groceries,Organic Rice,5.0,1916.67,39.03,Central,UPI,2.0,Not Returned
+ORD-04852,,,Motivational Reader,16.0,12255.84,28.32,East,UPI,12.0,Not Returned
+ORD-03695,01/03/2023,,Data Science Workbook,5.0,,6.74,Central,Credit Card,6.0,Returned
+ORD-00261,2024-05-27,Groceries,Green Tea Pack,20.0,1679.22,-6.57,Central,Debit Card,4.0,Not Returned
+ORD-04507,,Books,Exam Prep Notes,12.0,6258.56,37.67,South,UPI,15.0,Not Returned
+ORD-00048,,Books,Motivational Reader,16.0,2976.01,,West,,2.0,Not Returned
+ORD-03065,2024-01-13,Books,History Reference Book,11.0,5220.51,4.65,Central,UPI,3.0,Pending
+ORD-00517,21/08/2024,Home & Kitchen,Chef Knife,,3097.85,38.56,South,UPI,13.0,Pending
+ORD-03835,21/02/2023,Clothing,Casual Shirt,6.0,3665.22,27.77,East,,,Not Returned
+ORD-01260,2024-07-22,,Olive Oil,1.0,4540.59,31.66,East,UPI,8.0,Returned
+ORD-02537,2024-11-03,Groceries,Pasta Bundle,7.0,₹13970.96,27.33,North,Credit Card,8.0,Not Returned
+ORD-01029,03/05/2023,Beauty,,13.0,6277.12,15.26,South,Debit Card,,Pending
+ORD-01180,20/05/2024,Home & Kitchen,LED Table Lamp,9.0,6944.52,13.43,Central,,5.0,Not Returned
+ORD-04506,2023-03-28,,Fantasy Novel,15.0,5379.4,34.07,East,UPI,14.0,Not Returned
+ORD-04551,08/05/2023,Beauty,Sunscreen Lotion,,9064.45,6.05,South,Debit Card,13.0,
+ORD-03727,2024-06-10,Electronics,Wireless Earbuds,20.0,2606.19,12.7,Central,Debit Card,8.0,Pending
+ORD-03276,,Clothing,Cotton T-Shirt,7.0,4220.46,14.87,,,6.0,Not Returned
+ORD-00716,2023-08-19,Groceries,Coffee Beans,15.0,1429.16,10.18,East,Debit Card,15.0,Returned
+ORD-03137,2023-08-18,Sports,,11.0,7851.31,1.0,North,,3.0,Pending
+ORD-03192,10/06/2024,Books,History Reference Book,6.0,12074.54,9.1,South,Net Banking,15.0,Not Returned
+ORD-02988,2023-09-08,Groceries,Olive Oil,17.0,2511.67,28.22,East,Net Banking,,
+ORD-00254,,Beauty,,,13210.89,9.83,East,Credit Card,15.0,Not Returned
+ORD-00778,2023-01-28,Beauty,Face Cleanser,4.0,7383.44,24.15,East,UPI,9.0,Not Returned
+ORD-01925,2023-04-16,Clothing,Cotton T-Shirt,9.0,11167.97,38.43,East,Credit Card,12.0,Not Returned
+ORD-04373,28/01/2023,Beauty,Nail Polish Set,2.0,174.88,34.49,East,UPI,14.0,Not Returned
+ORD-01645,2024-09-20,Sports,Dumbbell Set,5.0,,7.05,South,UPI,14.0,Not Returned
+ORD-01754,2024-03-17,Books,Python Programming Guide,3.0,9131.17,21.67,Central,UPI,5.0,
+ORD-01552,2024-04-21,Beauty,,3.0,11494.99,,,,12.0,Not Returned
+ORD-03586,2024-03-22,Electronics,Smart Watch,2.0,13356.56,,,,6.0,Not Returned
+ORD-00132,2023-01-23,Beauty,Face Cleanser,15.0,,25.48,South,Cash on Delivery,,Not Returned
+ORD-04338,2023-07-03,Groceries,Pasta Bundle,8.0,13322.13,,West,Credit Card,4.0,Returned
+ORD-04255,2024-10-28,,Hoodie,18.0,7352.9,,North,Debit Card,,Not Returned
+ORD-01431,06/07/2024,Beauty,Body Wash,5.0,8874.28,,East,UPI,13.0,Not Returned
+ORD-02274,2023-12-20,Groceries,,18.0,12197.43,3.55,North,Cash on Delivery,2.0,Not Returned
+ORD-04524,2023-02-15,Sports,,13.0,11037.23,-12.28,West,Debit Card,6.0,Returned
+ORD-02037,2023-01-21,Beauty,Sunscreen Lotion,15.0,2649.84,18.48,East,Credit Card,10.0,Not Returned
+ORD-00844,12/02/2024,Groceries,,14.0,10410.06,28.85,North,Credit Card,9.0,Not Returned
+ORD-04126,30/06/2023,Beauty,Lip Balm,2.0,,36.14,North,UPI,7.0,Pending
+ORD-03452,2024-03-07,Groceries,Olive Oil,,,23.96,West,UPI,6.0,Not Returned
+ORD-02880,2024-12-06,Books,Python Programming Guide,16.0,11525.62,14.8,West,Debit Card,1.0,
+ORD-02758,2024-04-07,Sports,Dumbbell Set,4.0,,5.43,Central,Net Banking,4.0,Pending
+ORD-04096,,Home & Kitchen,LED Table Lamp,20.0,,32.43,North,UPI,1.0,Not Returned
+ORD-00734,2024-08-27,Sports,Cricket Bat,11.0,3806.31,22.75,North,Credit Card,3.0,Not Returned
+ORD-03492,2023-12-11,Home & Kitchen,Dish Rack,,13613.62,3.56,North,Debit Card,4.0,Not Returned
+ORD-03502,,Groceries,Pasta Bundle,,,25.58,South,Debit Card,11.0,
+ORD-01486,22/01/2023,Sports,Gym Gloves,14.0,,13.94,West,UPI,1.0,Not Returned
+ORD-02766,,,,6.0,,,North,Credit Card,5.0,Not Returned
+ORD-00139,,Beauty,Lip Balm,17.0,11374.84,,Central,UPI,10.0,Not Returned
+ORD-00333,,,Gym Gloves,9.0,₹7511.82,5.24,North,UPI,5.0,Not Returned
+ORD-04009,,Clothing,Jacket,1.0,6229.92,31.91,East,UPI,14.0,Not Returned
+ORD-01886,21/02/2024,Books,History Reference Book,13.0,,-7.09,West,,2.0,Not Returned
+ORD-04557,2023-06-20,Groceries,Protein Bar Pack,8.0,8465.22,18.41,North,UPI,1.0,Not Returned
+ORD-02771,2024-07-12,Electronics,Noise Cancelling Headphones,4.0,1664.94,36.02,South,Net Banking,11.0,Not Returned
+ORD-01627,,Groceries,Pasta Bundle,10.0,14134.47,2.48,South,Credit Card,15.0,
+ORD-04213,2023-03-17,Electronics,,11.0,2826.83,17.63,West,Credit Card,4.0,Returned
+ORD-02047,2024-12-23,Electronics,,1500.0,14404.18,1.15,West,,1.0,Not Returned
+ORD-03266,19/11/2024,Groceries,Green Tea Pack,16.0,251.85,15.43,West,Credit Card,3.0,
+ORD-00276,2023-07-22,Clothing,Hoodie,8.0,9467.0,36.89,,Credit Card,4.0,Returned
+ORD-01350,19/04/2024,Clothing,Casual Shirt,19.0,3894.66,-13.79,North,UPI,,Returned
+ORD-00400,,Electronics,Wireless Earbuds,10.0,,1.16,East,Cash on Delivery,15.0,Not Returned
+ORD-04765,08/06/2023,Groceries,Pasta Bundle,7.0,,32.71,South,Credit Card,14.0,Not Returned
+ORD-01570,2023-02-28,Groceries,Breakfast Cereal,1.0,,24.32,West,UPI,1.0,Not Returned
+ORD-04326,2023-01-28,Sports,Football,10.0,2866.73,35.64,West,Net Banking,1.0,Not Returned
+ORD-04649,12/09/2023,Books,Machine Learning Handbook,15.0,,15.33,South,,,Not Returned
+ORD-01074,04/02/2024,,Football,1.0,13638.08,3.67,North,UPI,7.0,Not Returned
+ORD-01871,2024-09-26,Clothing,Running Shorts,16.0,4036.35,39.45,North,Credit Card,,Not Returned
+ORD-04435,31/01/2024,Clothing,,,1820.37,6.15,North,UPI,,Not Returned
+ORD-02622,2023-08-31,,Nail Polish Set,11.0,5246.09,11.62,South,UPI,15.0,
+ORD-02775,2023-05-29,Home & Kitchen,LED Table Lamp,16.0,12087.66,39.3,East,,10.0,Not Returned
+ORD-03300,2024-09-28,Groceries,Pasta Bundle,,12082.56,3.45,South,Credit Card,15.0,Not Returned
+ORD-02529,2023-05-25,Clothing,Hoodie,,8026.19,0.16,Central,Net Banking,7.0,
+ORD-00558,2023-05-01,Clothing,Casual Shirt,,11427.9,36.79,Central,,4.0,Returned
+ORD-01701,27/09/2024,Electronics,Wireless Earbuds,13.0,1388.5,0.69,East,,14.0,
+ORD-01063,2023-03-29,Groceries,Olive Oil,,14628.56,39.05,North,Net Banking,5.0,Not Returned
+ORD-03027,28/10/2024,Home & Kitchen,Dish Rack,,739.09,32.68,West,Credit Card,8.0,Returned
+ORD-00580,31/01/2023,Beauty,Face Cleanser,19.0,5098.89,,South,,9.0,Not Returned
+ORD-01631,,,Denim Jeans,16.0,14233.69,5.5,Central,Debit Card,2.0,Not Returned
+ORD-02777,,Clothing,,9.0,13381.3,32.48,West,Debit Card,5.0,Not Returned
+ORD-00102,,Sports,Yoga Mat,12.0,10686.46,,Central,UPI,1.0,Not Returned
+ORD-04517,,Home & Kitchen,Non-stick Pan,1.0,1517.79,31.87,East,,,Not Returned
+ORD-01380,2024-05-04,Groceries,Protein Bar Pack,2.0,7578.99,28.17,North,Credit Card,10.0,Not Returned
+ORD-00563,2024-08-08,Sports,Skipping Rope,,13034.31,35.19,South,UPI,14.0,Not Returned
+ORD-00722,25/10/2024,,Coffee Beans,9.0,7044.78,32.72,West,Credit Card,11.0,Not Returned
+ORD-03648,2024-05-31,,History Reference Book,,11331.7,28.19,Central,Net Banking,5.0,Not Returned
+ORD-00492,2024-10-02,Clothing,Cotton T-Shirt,10.0,,22.0,South,,12.0,Not Returned
+ORD-03328,18/08/2024,Home & Kitchen,,6.0,14324.16,0.53,West,,9.0,
+ORD-00401,2023-09-06,Books,Data Science Workbook,4.0,₹ 11158.76,29.01,North,UPI,1.0,Not Returned
+ORD-02585,14/08/2023,Sports,Dumbbell Set,7.0,,,,Debit Card,7.0,Not Returned
+ORD-03267,,Electronics,Noise Cancelling Headphones,3.0,1328.83,27.38,East,UPI,12.0,Not Returned
+ORD-04818,,Sports,Cricket Bat,,4789.11,16.33,East,,,Not Returned
+ORD-03529,,Home & Kitchen,Water Bottle,14.0,1880.99,3.52,East,UPI,,Not Returned
+ORD-03631,2024-04-14,Clothing,Hoodie,2.0,11707.18,17.9,North,,8.0,Not Returned
+ORD-03638,07/05/2024,,Organic Rice,18.0,13576.72,9.02,,UPI,9.0,Not Returned
+ORD-03552,2024-12-16,Sports,Gym Gloves,14.0,14500.24,-11.83,East,UPI,13.0,
+ORD-01502,2024-01-08,Beauty,Sunscreen Lotion,8.0,7983.94,38.96,North,Cash on Delivery,11.0,Not Returned
+ORD-00251,27/02/2024,Beauty,Lip Balm,19.0,5299.89,24.66,Central,Debit Card,7.0,Not Returned
+ORD-03175,28/09/2024,Books,Data Science Workbook,6.0,11787.76,15.41,,UPI,10.0,Not Returned
+ORD-02124,15/12/2024,Home & Kitchen,Dish Rack,19.0,12909.81,9.84,East,UPI,13.0,
+ORD-00585,08/02/2024,Sports,Dumbbell Set,6.0,236.6,14.81,North,UPI,5.0,Not Returned
+ORD-01357,15/05/2024,Sports,Gym Gloves,1.0,,22.2,East,UPI,15.0,Not Returned
+ORD-03540,2023-11-15,Clothing,Sports Socks,17.0,12180.99,0.67,Central,,10.0,Not Returned
+ORD-04401,,Electronics,,7.0,"₹12,722.08",24.06,East,UPI,13.0,Not Returned
+ORD-02576,2024-12-29,Beauty,Body Wash,5.0,1552.0,,North,Cash on Delivery,1.0,Returned
+ORD-02539,,Electronics,Noise Cancelling Headphones,13.0,7382.91,30.26,,,1.0,Not Returned
+ORD-02713,2024-12-07,Groceries,,2.0,8473.15,,South,Cash on Delivery,15.0,
+ORD-00386,2023-05-23,Electronics,Smartphone Charger,4.0,11138.89,27.98,South,Debit Card,9.0,Returned
+ORD-02552,06/06/2024,Beauty,Sunscreen Lotion,5.0,11076.31,19.23,West,Cash on Delivery,3.0,Not Returned
+ORD-02034,2024-05-18,Groceries,Breakfast Cereal,4.0,,11.2,East,Net Banking,,Not Returned
+ORD-01835,2023-12-17,Books,Machine Learning Handbook,14.0,1032.16,29.77,Central,UPI,9.0,Not Returned
+ORD-01846,,Groceries,Organic Rice,1.0,12659.36,37.35,North,Cash on Delivery,,Not Returned
+ORD-00010,,,Exam Prep Notes,15.0,6880.11,24.98,East,Debit Card,,
+ORD-01296,2023-01-11,Clothing,Jacket,18.0,"₹4,439.69",3.89,,UPI,8.0,Not Returned
+ORD-04715,2024-07-31,Home & Kitchen,Dish Rack,17.0,,33.34,West,UPI,4.0,Not Returned
+ORD-02964,01/09/2023,Clothing,Hoodie,,6675.21,,North,Credit Card,1.0,Not Returned
+ORD-03660,2024-06-07,Sports,Skipping Rope,,10681.44,10.63,South,Net Banking,15.0,Not Returned
+ORD-01962,2023-03-23,Beauty,,12.0,,12.71,,Net Banking,1.0,Not Returned
+ORD-00432,2024-06-28,Clothing,Cotton T-Shirt,14.0,9919.01,,Central,Credit Card,11.0,Not Returned
+ORD-02894,2024-02-16,Sports,Dumbbell Set,9.0,4758.39,15.83,West,Cash on Delivery,5.0,
+ORD-02708,19/07/2023,Books,Motivational Reader,14.0,,-1.27,,Debit Card,,Not Returned
+ORD-00540,05/05/2023,,Sunscreen Lotion,10.0,11655.57,33.01,East,Credit Card,12.0,Not Returned
+ORD-01795,08/02/2023,Beauty,Lip Balm,13.0,10987.57,7.75,,Net Banking,4.0,
+ORD-04292,2024-01-15,Groceries,Pasta Bundle,,14802.87,21.74,,Credit Card,3.0,Not Returned
+ORD-03766,2023-09-24,,Dish Rack,7.0,2226.38,11.14,South,UPI,8.0,Not Returned
+ORD-00627,18/12/2024,Books,Exam Prep Notes,14.0,2945.09,38.95,Central,Credit Card,8.0,Returned
+ORD-00534,2023-08-21,Groceries,Green Tea Pack,9.0,9570.42,,,,5.0,Not Returned
+ORD-02786,,Books,Machine Learning Handbook,,12389.09,8.01,South,Net Banking,,Pending
+ORD-01031,2024-11-22,Groceries,Pasta Bundle,8.0,1885.57,2.11,West,,1.0,Not Returned
+ORD-00855,2023-07-26,Home & Kitchen,Chef Knife,16.0,,38.94,North,,7.0,Not Returned
+ORD-01020,22/05/2023,Sports,Cricket Bat,6.0,2456.78,1.58,West,Debit Card,,Not Returned
+ORD-00338,2023-08-31,Groceries,Organic Rice,15.0,1005.08,5.5,East,Credit Card,13.0,
+ORD-02341,2024-07-17,,Coffee Beans,16.0,6069.94,17.26,South,UPI,14.0,
+ORD-00674,08/10/2024,Groceries,Olive Oil,2.0,5284.37,9.6,South,Debit Card,12.0,Returned
+ORD-01388,2024-07-20,Home & Kitchen,LED Table Lamp,4.0,2701.14,,South,UPI,13.0,
+ORD-04687,22/10/2023,Books,Fantasy Novel,19.0,2217.87,20.8,West,Credit Card,4.0,Not Returned
+ORD-01463,11/03/2024,Electronics,USB-C Cable,1200.0,,,Central,Credit Card,1.0,Not Returned
+ORD-01897,17/10/2023,Beauty,Body Wash,3000.0,7064.76,34.79,East,Credit Card,9.0,Not Returned
+ORD-01481,2023-06-04,Sports,Skipping Rope,13.0,8504.94,35.58,Central,Credit Card,,Not Returned
+ORD-03517,2024-11-02,Sports,Cricket Bat,,10642.93,7.12,,Credit Card,,
+ORD-04508,2024-02-16,,Breakfast Cereal,4.0,,21.75,North,Debit Card,,Returned
+ORD-01327,2024-08-24,,Exam Prep Notes,,12836.32,24.69,North,Debit Card,15.0,Returned
+ORD-03928,2023-03-05,Books,Machine Learning Handbook,,3384.44,9.15,,Credit Card,10.0,Not Returned
+ORD-02518,2024-07-18,Electronics,Noise Cancelling Headphones,7.0,,20.62,West,Credit Card,3.0,Not Returned
+ORD-04534,2024-04-05,Books,,20.0,13464.18,6.34,Central,UPI,10.0,Not Returned
+ORD-01246,07/10/2023,Sports,Skipping Rope,,9967.99,1.64,East,Credit Card,12.0,Not Returned
+ORD-03403,2024-09-29,Sports,Gym Gloves,18.0,6019.55,22.82,North,,1.0,Not Returned
+ORD-03894,21/08/2024,Electronics,USB-C Cable,9.0,10879.8,23.33,West,Debit Card,12.0,Not Returned
+ORD-04590,06/01/2024,Home & Kitchen,Dish Rack,2.0,4023.97,,South,Net Banking,15.0,Not Returned
+ORD-02220,07/02/2024,Books,Python Programming Guide,6.0,10300.16,31.21,Central,,3.0,Not Returned
+ORD-03743,,Books,Fantasy Novel,6.0,13899.77,30.86,Central,Net Banking,1.0,Not Returned
+ORD-04106,2023-01-10,Home & Kitchen,Chef Knife,19.0,127.77,1.55,,UPI,12.0,Not Returned
+ORD-00455,2023-09-19,Sports,Yoga Mat,3.0,184.18,33.97,Central,UPI,7.0,
+ORD-03298,03/03/2023,,Sunscreen Lotion,,7004.4,18.52,North,Net Banking,2.0,Not Returned
+ORD-04251,02/12/2024,Home & Kitchen,Chef Knife,20.0,4119.66,38.85,Central,UPI,1.0,Not Returned
+ORD-04107,14/10/2023,Clothing,Jacket,14.0,3416.34,-3.09,,Debit Card,5.0,Not Returned
+ORD-03494,2023-03-02,Electronics,Bluetooth Speaker,3.0,7258.18,6.9,West,UPI,,Not Returned
+ORD-00319,2024-06-22,Clothing,Sports Socks,,,,South,Debit Card,15.0,Not Returned
+ORD-04068,2023-10-18,Books,Fantasy Novel,6.0,8094.97,15.43,Central,UPI,1.0,Not Returned
+ORD-03104,22/09/2023,Clothing,Hoodie,,3897.99,8.45,West,Cash on Delivery,5.0,Not Returned
+ORD-02884,,Electronics,,20.0,₹208.52,,Central,Debit Card,2.0,Not Returned
+ORD-01906,07/11/2024,Groceries,,16.0,,-4.2,West,Credit Card,5.0,Pending
+ORD-04712,28/10/2023,Beauty,Nail Polish Set,18.0,13738.33,17.44,Central,,8.0,Pending
+ORD-03028,2024-05-25,Home & Kitchen,LED Table Lamp,15.0,₹ 6485.42,38.58,North,UPI,10.0,Pending
+ORD-02612,,Beauty,Lip Balm,15.0,1430.82,18.4,,Debit Card,,Returned
+ORD-00377,2023-03-02,Sports,Yoga Mat,1.0,,,North,Credit Card,12.0,Returned
+ORD-04358,15/01/2024,Groceries,Pasta Bundle,,3469.08,28.64,West,UPI,4.0,Returned
+ORD-02621,,Home & Kitchen,LED Table Lamp,16.0,4708.42,17.92,East,UPI,14.0,
+ORD-00282,2024-02-22,Beauty,Nail Polish Set,8.0,11228.43,,East,,15.0,Pending
+ORD-00914,2024-06-24,Sports,Yoga Mat,15.0,1836.72,29.93,West,UPI,3.0,
+ORD-01963,2023-05-19,,Cotton T-Shirt,8.0,13755.47,-3.3,Central,,12.0,Not Returned
+ORD-02448,2023-08-08,Electronics,Bluetooth Speaker,9999.0,14976.04,36.1,West,,10.0,Returned
+ORD-01423,2023-03-06,Groceries,Pasta Bundle,11.0,819.37,13.87,Central,Debit Card,6.0,Not Returned
+ORD-03083,18/02/2023,Home & Kitchen,Chef Knife,4.0,12895.72,0.77,North,Net Banking,2.0,Not Returned
+ORD-03815,2024-02-24,Groceries,Protein Bar Pack,15.0,231.56,36.79,North,,,
+ORD-02486,25/03/2024,Clothing,,,,5.12,East,Credit Card,14.0,
+ORD-03293,2023-01-05,Books,,16.0,,13.41,Central,UPI,11.0,Not Returned
+ORD-02676,17/06/2024,,Body Wash,,3867.0,20.93,East,,14.0,
+ORD-02965,2023-08-17,Books,Exam Prep Notes,10.0,13095.5,18.37,Central,Credit Card,6.0,
+ORD-00853,2023-01-25,Sports,Football,12.0,7323.21,19.74,,Debit Card,12.0,Not Returned
+ORD-01843,16/06/2023,Electronics,,,484.69,,West,Credit Card,14.0,Not Returned
+ORD-01711,08/01/2024,Sports,Dumbbell Set,9.0,12330.72,11.23,South,UPI,15.0,Not Returned
+ORD-02288,2024-10-01,,,4.0,11414.85,18.52,East,,13.0,Not Returned
+ORD-04560,23/02/2023,,Hoodie,20.0,13586.4,10.93,Central,Net Banking,7.0,Not Returned
+ORD-02254,07/12/2024,Beauty,Hair Serum,13.0,2677.49,6.28,East,Credit Card,14.0,Returned
+ORD-04708,29/09/2024,Electronics,Smartphone Charger,11.0,,4.96,West,Credit Card,6.0,
+ORD-00167,,,Python Programming Guide,20.0,1898.87,30.24,Central,Cash on Delivery,2.0,Not Returned
+ORD-00790,,Groceries,Organic Rice,10.0,,38.49,Central,Net Banking,9.0,Not Returned
+ORD-01151,2023-11-10,,Football,8.0,13103.96,11.65,North,UPI,,Returned
+ORD-00857,21/01/2024,Home & Kitchen,LED Table Lamp,3.0,₹ 7167.48,20.26,Central,Debit Card,1.0,Not Returned
+ORD-01916,01/06/2024,Electronics,,16.0,11852.65,32.15,North,Debit Card,6.0,Not Returned
+ORD-01690,19/02/2024,Groceries,Breakfast Cereal,6.0,14128.56,,Central,Credit Card,,Not Returned
+ORD-02884,2024-07-12,,Machine Learning Handbook,2.0,4269.11,-1.15,North,Debit Card,8.0,Not Returned
+ORD-02402,18/04/2023,,,9.0,8898.48,,South,Debit Card,9.0,
+ORD-01040,20/03/2023,Books,Data Science Workbook,9999.0,13111.07,25.62,East,Net Banking,15.0,
+ORD-02038,10/04/2024,Electronics,Smart Watch,9.0,4421.46,22.78,North,UPI,6.0,Not Returned
+ORD-02468,2024-08-29,Sports,Football,6.0,,0.5,West,Debit Card,13.0,
+ORD-00185,2024-08-05,,Motivational Reader,,13083.01,26.54,,Credit Card,10.0,Not Returned
+ORD-03850,2023-08-27,Groceries,Protein Bar Pack,11.0,"₹7,395.47",-1.21,Central,Cash on Delivery,2.0,Not Returned
+ORD-03029,2023-01-13,Sports,Football,1500.0,11977.67,16.87,Central,,9.0,
+ORD-04846,02/08/2024,Sports,Yoga Mat,,8050.25,16.31,South,Net Banking,,Not Returned
+ORD-01419,,Sports,Gym Gloves,2.0,5377.19,17.01,North,Cash on Delivery,9.0,Pending
+ORD-02815,,Home & Kitchen,Water Bottle,13.0,4533.69,1.6,East,Debit Card,15.0,Not Returned
+ORD-01866,2024-12-09,Clothing,Jacket,1.0,,34.92,Central,UPI,9.0,Returned
+ORD-00017,2024-09-09,Clothing,Denim Jeans,1.0,183.93,24.84,Central,UPI,8.0,Not Returned
+ORD-00350,,Sports,Cricket Bat,,"₹13,615.10",20.2,East,UPI,14.0,Not Returned
+ORD-04165,14/11/2024,Home & Kitchen,Storage Box Set,6.0,1236.36,,,UPI,7.0,Not Returned
+ORD-01096,03/06/2024,Books,,5.0,14393.15,6.84,,UPI,1.0,Returned
+ORD-00674,,Home & Kitchen,LED Table Lamp,17.0,1378.72,12.38,East,Debit Card,9.0,Not Returned
+ORD-00659,,Beauty,,16.0,11168.69,,East,Debit Card,,Not Returned
+ORD-03140,29/12/2024,Clothing,Casual Shirt,,6396.99,2.88,Central,Debit Card,9.0,Not Returned
+ORD-04211,2024-04-27,Beauty,Face Cleanser,20.0,7367.01,-3.62,South,Debit Card,14.0,Not Returned
+ORD-01424,,Electronics,Noise Cancelling Headphones,15.0,9616.88,17.59,South,Debit Card,14.0,Not Returned
+ORD-04159,13/11/2024,Books,,14.0,1112.84,2.34,South,,15.0,Not Returned
+ORD-00521,2023-09-18,Electronics,Smartphone Charger,,3914.32,25.65,,Credit Card,9.0,
+ORD-01211,28/06/2023,Home & Kitchen,Dish Rack,19.0,,6.55,,Net Banking,8.0,Not Returned
+ORD-00479,18/05/2023,,Body Wash,18.0,6872.7,13.13,,Cash on Delivery,1.0,Not Returned
+ORD-00313,2024-02-06,Electronics,Smart Watch,,8454.3,9.87,East,UPI,13.0,Pending
+ORD-02327,11/02/2024,Home & Kitchen,Storage Box Set,17.0,"₹10,117.49",5.87,West,Credit Card,8.0,Returned
+ORD-03034,2023-06-19,Electronics,Bluetooth Speaker,8.0,7135.11,,South,,14.0,Not Returned
+ORD-04628,2023-12-12,Home & Kitchen,,8.0,957.17,23.62,South,Debit Card,11.0,Pending
+ORD-03153,2024-07-25,Home & Kitchen,Dish Rack,2.0,4482.95,6.4,East,Cash on Delivery,11.0,Not Returned
+ORD-01191,,Clothing,Denim Jeans,8.0,5718.64,32.25,East,UPI,12.0,Pending
+ORD-03907,2024-04-16,Clothing,Casual Shirt,17.0,10824.25,3.74,East,UPI,14.0,Not Returned
+ORD-02619,2023-07-23,Beauty,Hair Serum,1500.0,5774.76,33.97,South,UPI,,Not Returned
+ORD-04234,2024-03-01,Home & Kitchen,Dish Rack,16.0,,-6.59,Central,Net Banking,5.0,Not Returned
+ORD-02823,2024-02-14,Beauty,Body Wash,1500.0,6177.14,2.11,,Credit Card,1.0,Not Returned
+ORD-00796,2023-03-08,,Coffee Beans,17.0,4785.46,7.71,West,Debit Card,7.0,Not Returned
+ORD-02653,2024-10-11,Electronics,Bluetooth Speaker,16.0,7913.4,28.03,Central,UPI,8.0,Not Returned
+ORD-01558,2024-07-24,,Noise Cancelling Headphones,16.0,12696.47,25.67,South,,11.0,Returned
+ORD-03047,07/09/2023,Electronics,Wireless Earbuds,8.0,1583.75,33.71,South,UPI,15.0,
+ORD-02921,,Home & Kitchen,Vacuum Flask,,14321.42,29.37,West,,7.0,Not Returned
+ORD-00520,29/06/2023,Beauty,Body Wash,,,,East,Net Banking,12.0,Not Returned
+ORD-02503,2024-07-21,Beauty,Face Cleanser,5.0,14054.81,18.58,Central,Net Banking,,Not Returned
+ORD-04306,18/05/2024,Sports,,1.0,11409.37,5.05,East,UPI,10.0,Not Returned
+ORD-03265,25/07/2023,Books,History Reference Book,1500.0,11837.25,14.33,East,Credit Card,11.0,Not Returned
+ORD-02813,2023-06-28,Clothing,,17.0,"₹6,831.34",5.42,Central,UPI,,Not Returned
+ORD-04867,2024-04-13,Sports,Tennis Racquet,3.0,1268.18,1.96,West,Credit Card,3.0,Returned
+ORD-02004,11/01/2023,Books,Fantasy Novel,5.0,8263.23,39.21,Central,Credit Card,6.0,Not Returned
+ORD-04824,2024-08-06,Home & Kitchen,Vacuum Flask,,,29.02,South,Debit Card,15.0,Not Returned
+ORD-01043,25/12/2024,Electronics,Laptop Stand,,3627.0,27.45,,UPI,13.0,Not Returned
+ORD-03284,,Sports,Skipping Rope,5.0,1956.71,36.91,East,UPI,12.0,Not Returned
+ORD-02870,2024-09-08,Books,Python Programming Guide,1.0,9629.67,20.6,North,UPI,8.0,Not Returned
+ORD-03064,2023-01-06,Home & Kitchen,Chef Knife,,8376.81,37.98,Central,Credit Card,2.0,
+ORD-03175,2023-06-17,Books,Data Science Workbook,3.0,12577.39,,North,Credit Card,6.0,Not Returned
+ORD-03294,2024-12-09,Books,Data Science Workbook,,13699.28,12.16,South,UPI,,Not Returned
+ORD-01904,,,Pasta Bundle,14.0,13339.04,25.74,Central,Credit Card,7.0,Not Returned
+ORD-04495,08/08/2023,Electronics,Laptop Stand,,1751.46,,Central,Cash on Delivery,6.0,Returned
+ORD-00206,2024-03-02,Groceries,Breakfast Cereal,12.0,11320.34,,East,Credit Card,12.0,
+ORD-04034,2024-10-24,Groceries,Organic Rice,8.0,12259.15,,Central,,,Not Returned
+ORD-03749,,Sports,Gym Gloves,3.0,6712.02,-2.62,West,,2.0,
+ORD-04060,2023-07-19,Groceries,Olive Oil,,,16.68,North,,9.0,Not Returned
+ORD-04706,2023-02-22,Sports,Skipping Rope,4.0,4317.22,,South,Debit Card,,Not Returned
+ORD-00285,,Home & Kitchen,Chef Knife,5.0,,19.24,South,Credit Card,11.0,Not Returned
+ORD-03738,2024-08-09,Electronics,Smart Watch,8.0,14284.97,7.71,,UPI,5.0,Returned
+ORD-00693,2023-05-12,Clothing,,11.0,₹ 11115.71,0.67,East,UPI,14.0,Not Returned
+ORD-00226,11/04/2023,,Body Wash,18.0,₹7413.59,13.8,South,UPI,10.0,Not Returned
+ORD-01343,2024-12-12,Electronics,Wireless Earbuds,7.0,4977.73,6.39,South,Cash on Delivery,13.0,Not Returned
+ORD-01797,24/08/2023,Home & Kitchen,Non-stick Pan,11.0,7777.37,23.39,Central,UPI,10.0,
+ORD-01706,2023-06-24,Books,,7.0,11070.99,28.14,Central,Net Banking,15.0,Returned
+ORD-02796,27/01/2023,Beauty,Body Wash,12.0,₹ 13937.87,,West,,4.0,Returned
+ORD-03636,2024-07-04,Beauty,,8.0,,25.91,West,Credit Card,4.0,Returned
+ORD-01144,2024-09-25,Books,Data Science Workbook,19.0,3452.81,33.31,Central,Debit Card,11.0,Not Returned
+ORD-04374,2023-08-17,Sports,Football,13.0,7926.19,21.26,South,Debit Card,13.0,Not Returned
+ORD-04604,2023-07-19,Home & Kitchen,Water Bottle,4.0,5275.16,12.03,North,Net Banking,3.0,Not Returned
+ORD-04451,2024-05-24,Sports,Yoga Mat,11.0,14012.12,20.12,West,Cash on Delivery,2.0,Not Returned
+ORD-03195,2024-02-08,Electronics,Bluetooth Speaker,8.0,6407.85,,East,Net Banking,14.0,Not Returned
+ORD-03144,2024-08-09,Clothing,Denim Jeans,,14347.7,33.03,,Debit Card,8.0,Not Returned
+ORD-03172,2024-05-14,Groceries,Organic Rice,,79.7,22.85,South,UPI,14.0,Not Returned
+ORD-02514,17/01/2023,Home & Kitchen,Water Bottle,19.0,5598.4,3.45,West,Debit Card,6.0,Not Returned
+ORD-03264,2024-04-13,Sports,Football,5.0,6668.31,39.92,North,,6.0,Not Returned
+ORD-00169,2023-03-02,Books,History Reference Book,4.0,,10.2,,Debit Card,,Not Returned
+ORD-02416,04/04/2023,Groceries,Pasta Bundle,16.0,12586.12,6.31,,UPI,14.0,Not Returned
+ORD-04475,2023-12-13,Sports,Cricket Bat,20.0,,4.35,North,Credit Card,13.0,Not Returned
+ORD-02441,21/07/2023,Home & Kitchen,,4.0,14768.38,37.45,North,UPI,13.0,Not Returned
+ORD-02230,2024-02-02,Groceries,Organic Rice,12.0,10975.57,,South,Debit Card,10.0,Not Returned
+ORD-01056,18/11/2023,Clothing,Jacket,,12233.7,10.06,East,Debit Card,14.0,Not Returned
+ORD-03498,14/07/2024,Electronics,USB-C Cable,7.0,7950.32,,South,UPI,15.0,
+ORD-03715,08/04/2023,Electronics,Wireless Earbuds,8.0,7416.82,11.22,South,Cash on Delivery,15.0,Not Returned
+ORD-02406,,Home & Kitchen,Vacuum Flask,19.0,320.94,12.26,Central,Cash on Delivery,10.0,Not Returned
+ORD-00956,08/10/2024,Sports,Gym Gloves,,,2.79,South,Credit Card,13.0,Returned
+ORD-02322,05/07/2024,Books,Motivational Reader,2500.0,₹ 10876.57,,East,Debit Card,10.0,Not Returned
+ORD-02443,20/10/2024,Clothing,Sports Socks,7.0,4233.37,5.82,South,UPI,15.0,Not Returned
+ORD-03269,2023-12-19,Groceries,Olive Oil,3.0,6386.42,8.76,South,Debit Card,,Not Returned
+ORD-02760,2023-10-16,Groceries,,15.0,1830.58,36.75,Central,Net Banking,3.0,Not Returned
+ORD-01350,,Home & Kitchen,LED Table Lamp,3.0,884.44,24.12,Central,UPI,2.0,Not Returned
+ORD-03577,2024-04-16,Beauty,,16.0,11693.63,38.48,North,Credit Card,3.0,Not Returned
+ORD-02270,15/10/2023,,Hoodie,16.0,8605.16,4.8,,Debit Card,,
+ORD-03822,,Clothing,Running Shorts,13.0,,-0.73,West,Debit Card,7.0,
+ORD-00981,2023-09-20,Sports,Yoga Mat,6.0,10169.15,35.1,,,4.0,Not Returned
+ORD-00563,,,Football,20.0,2076.91,5.08,Central,Debit Card,2.0,
+ORD-02082,2023-09-11,Electronics,,9999.0,4101.08,26.42,Central,Cash on Delivery,8.0,
+ORD-02883,,Home & Kitchen,Non-stick Pan,9.0,7723.17,,South,UPI,14.0,Not Returned
+ORD-00602,19/03/2024,Electronics,Wireless Earbuds,12.0,2177.49,21.39,North,Debit Card,2.0,Not Returned
+ORD-04279,,,Water Bottle,7.0,2641.12,,,UPI,,Returned
+ORD-02748,25/11/2024,Sports,,19.0,690.42,,West,Debit Card,3.0,Not Returned
+ORD-04436,2024-03-28,Home & Kitchen,Chef Knife,,2064.72,6.42,Central,Credit Card,2.0,Not Returned
+ORD-01500,14/08/2024,Groceries,Breakfast Cereal,10.0,14843.69,34.25,,UPI,10.0,Pending
+ORD-02763,2024-11-23,,,14.0,10174.82,37.46,Central,,1.0,Not Returned
+ORD-03488,,Home & Kitchen,Vacuum Flask,1.0,653.76,14.67,West,Debit Card,5.0,Not Returned
+ORD-02009,2023-07-05,Books,History Reference Book,4.0,653.53,-6.27,South,Credit Card,13.0,Not Returned
+ORD-01329,2024-11-03,Home & Kitchen,LED Table Lamp,12.0,13749.82,39.12,West,UPI,13.0,Not Returned
+ORD-03798,16/06/2024,Beauty,Moisturizing Cream,15.0,₹442.67,33.88,West,UPI,3.0,Not Returned
+ORD-01308,,Groceries,Pasta Bundle,,,28.65,East,Debit Card,15.0,Not Returned
+ORD-02372,05/11/2024,Books,,,12153.97,22.12,Central,Credit Card,1.0,Returned
+ORD-02777,2023-04-14,,,9999.0,1977.76,8.3,West,Net Banking,2.0,Not Returned
+ORD-03931,06/08/2023,Electronics,Smart Watch,14.0,3050.93,-4.15,North,UPI,2.0,
+ORD-00222,2023-05-31,Groceries,Green Tea Pack,,5051.26,5.49,North,Debit Card,5.0,Not Returned
+ORD-00561,02/04/2024,Beauty,Moisturizing Cream,18.0,11076.67,17.17,East,UPI,15.0,Not Returned
+ORD-02665,17/03/2024,Beauty,Hair Serum,10.0,3744.76,34.15,Central,,3.0,Returned
+ORD-04042,,Books,Machine Learning Handbook,1.0,1903.41,,South,Debit Card,12.0,Not Returned
+ORD-00993,2023-10-11,Clothing,Running Shorts,1.0,68.46,,South,UPI,15.0,Not Returned
+ORD-01532,2023-12-19,Clothing,Casual Shirt,15.0,,,Central,UPI,,Not Returned
+ORD-03501,2023-01-08,Books,Fantasy Novel,20.0,5719.33,27.94,,UPI,3.0,Not Returned
+ORD-02161,2024-05-03,,Cricket Bat,7.0,10952.24,-2.02,North,UPI,,Not Returned
+ORD-04070,2023-05-06,Books,Data Science Workbook,1.0,,13.28,West,,10.0,Not Returned
+ORD-02069,19/09/2023,Home & Kitchen,Storage Box Set,18.0,12662.17,,East,UPI,14.0,Not Returned
+ORD-00647,2023-08-14,Beauty,Face Cleanser,3.0,3883.22,17.74,South,,12.0,Not Returned
+ORD-02251,19/05/2023,Groceries,Protein Bar Pack,12.0,10418.02,18.62,South,Debit Card,14.0,Not Returned
+ORD-00942,2023-11-02,Beauty,Body Wash,6.0,1695.37,14.44,South,Cash on Delivery,,Returned
+ORD-00985,,Electronics,,18.0,8704.0,,West,,5.0,Returned
+ORD-00197,2024-09-11,Home & Kitchen,Water Bottle,10.0,12290.09,,Central,UPI,1.0,Not Returned
+ORD-01443,2023-09-10,Beauty,,,8778.05,2.05,East,UPI,11.0,
+ORD-02991,10/04/2024,,Olive Oil,,,26.99,South,UPI,15.0,Not Returned
+ORD-03273,2023-07-17,Home & Kitchen,Water Bottle,16.0,9924.4,0.63,North,Net Banking,5.0,Not Returned
+ORD-03446,18/12/2023,Books,Data Science Workbook,19.0,3154.13,38.65,West,UPI,7.0,Not Returned
+ORD-00067,04/04/2024,Electronics,Wireless Earbuds,,₹ 10701.78,0.15,,UPI,13.0,Not Returned
+ORD-04778,2023-06-12,,Smart Watch,10.0,3303.24,28.9,Central,,1.0,Returned
+ORD-00954,11/01/2023,Sports,Football,10.0,6028.77,22.47,East,UPI,13.0,Not Returned
+ORD-04185,2024-09-01,Sports,Cricket Bat,1.0,10273.96,1.37,,UPI,11.0,Not Returned
+ORD-02807,2024-01-24,Sports,Gym Gloves,16.0,3855.68,35.46,East,UPI,12.0,Not Returned
+ORD-01838,04/04/2023,Home & Kitchen,,2.0,,6.94,East,,,Not Returned
+ORD-03947,2024-11-13,Groceries,Organic Rice,6.0,"₹3,708.35",32.8,South,Cash on Delivery,14.0,
+ORD-02727,22/01/2023,,Lip Balm,3.0,,,,UPI,,Not Returned
+ORD-00383,2024-02-22,Home & Kitchen,,9.0,8426.89,2.22,West,UPI,4.0,
+ORD-02158,,Sports,Football,13.0,,,South,UPI,12.0,Not Returned
+ORD-04672,15/08/2023,Groceries,Green Tea Pack,9999.0,14386.97,38.57,,,1.0,Not Returned
+ORD-01677,03/12/2024,Beauty,Hair Serum,11.0,,31.62,North,Debit Card,3.0,Returned
+ORD-03324,24/09/2024,Electronics,Smartphone Charger,2.0,11945.87,12.31,South,UPI,9.0,Not Returned
+ORD-03114,10/11/2023,Clothing,Running Shorts,,12354.94,35.21,,UPI,13.0,
+ORD-01913,2023-09-20,Books,Fantasy Novel,3.0,7230.9,4.77,West,Debit Card,,Not Returned
+ORD-04857,2024-11-07,Clothing,Sports Socks,10.0,₹ 1066.69,12.42,North,,5.0,Not Returned
+ORD-02123,,Beauty,Sunscreen Lotion,4.0,100.45,26.34,West,UPI,11.0,Returned
+ORD-03325,2024-10-25,Beauty,,,4686.58,21.17,West,UPI,1.0,Not Returned
+ORD-00046,2023-01-20,,Dumbbell Set,3.0,2289.07,31.52,West,Credit Card,,Not Returned
+ORD-00190,16/08/2024,Clothing,Sports Socks,2.0,12033.92,31.46,West,Cash on Delivery,5.0,Not Returned
+ORD-01137,16/06/2023,Groceries,Coffee Beans,1500.0,,18.56,East,Debit Card,15.0,Not Returned
+ORD-04058,24/09/2023,Groceries,,9.0,"₹9,258.24",,North,UPI,,Not Returned
+ORD-02646,2023-06-09,Books,Motivational Reader,18.0,,22.54,South,Cash on Delivery,15.0,Not Returned
+ORD-01338,2023-06-04,,Wireless Earbuds,7.0,₹ 4266.92,23.79,West,Net Banking,7.0,Not Returned
+ORD-01127,2024-07-18,,Storage Box Set,19.0,3348.32,10.77,West,UPI,10.0,Not Returned
+ORD-02329,2023-09-10,Groceries,Olive Oil,11.0,7872.3,,East,Credit Card,13.0,Returned
+ORD-04624,2023-04-21,Home & Kitchen,,13.0,9475.35,31.41,North,Credit Card,2.0,Not Returned
+ORD-03637,17/08/2023,Home & Kitchen,Water Bottle,16.0,8346.16,10.34,East,Credit Card,15.0,
+ORD-04605,20/04/2023,Beauty,Sunscreen Lotion,10.0,3085.06,30.03,,Debit Card,4.0,Pending
+ORD-01563,2023-02-05,Clothing,Cotton T-Shirt,14.0,2312.81,14.85,West,UPI,3.0,Returned
+ORD-00057,2023-12-31,Sports,Tennis Racquet,5.0,9101.35,,South,Cash on Delivery,13.0,Not Returned
+ORD-04383,2024-05-16,Beauty,Sunscreen Lotion,9999.0,106.23,24.41,,UPI,13.0,Not Returned
+ORD-03812,2023-01-04,,Motivational Reader,1.0,₹ 10865.22,36.4,West,Credit Card,5.0,Not Returned
+ORD-01221,2023-05-03,Books,History Reference Book,,4587.14,4.91,South,UPI,12.0,
+ORD-02094,2024-08-15,Electronics,Smart Watch,20.0,3095.42,19.49,Central,,2.0,Returned
+ORD-00809,19/07/2024,,Moisturizing Cream,2500.0,"₹6,238.84",23.1,South,Net Banking,11.0,Not Returned
+ORD-00349,13/11/2024,Clothing,Jacket,20.0,11311.46,9.22,East,Credit Card,14.0,Not Returned
+ORD-03483,06/03/2024,Beauty,Sunscreen Lotion,10.0,6646.86,7.34,West,Net Banking,3.0,Not Returned
+ORD-04840,2024-05-16,Sports,Gym Gloves,6.0,9160.04,21.66,,Debit Card,9.0,
+ORD-01372,2023-06-05,Books,,8.0,14912.63,11.42,North,UPI,5.0,
+ORD-01089,12/02/2023,,Motivational Reader,7.0,7014.14,27.66,North,UPI,6.0,Not Returned
+ORD-02728,2024-05-22,Books,Machine Learning Handbook,11.0,,19.24,,Credit Card,12.0,
+ORD-02567,06/05/2024,Clothing,Running Shorts,3000.0,10665.75,24.23,North,Debit Card,2.0,Not Returned
+ORD-00865,29/05/2024,,Olive Oil,9.0,10135.65,25.53,West,UPI,2.0,Returned
+ORD-02767,07/02/2024,Electronics,Smart Watch,5.0,,6.45,East,UPI,13.0,Not Returned
+ORD-00082,2024-03-18,Groceries,Coffee Beans,12.0,5141.74,,East,UPI,13.0,Returned
+ORD-02640,15/07/2024,Books,Exam Prep Notes,2.0,3441.55,4.55,North,,9.0,Returned
+ORD-01030,2024-04-03,Beauty,Face Cleanser,,11344.67,21.72,North,UPI,,Not Returned
+ORD-02375,,Electronics,Smartphone Charger,4.0,13505.3,37.77,North,Debit Card,1.0,Not Returned
+ORD-03623,02/05/2024,,Noise Cancelling Headphones,4.0,4438.44,24.79,North,UPI,1.0,Not Returned
+ORD-03763,2023-03-06,Groceries,Coffee Beans,16.0,6799.34,26.17,West,Credit Card,3.0,Not Returned
+ORD-00640,2023-12-07,Beauty,Hair Serum,8.0,"₹7,664.82",,East,Credit Card,15.0,
+ORD-00874,24/06/2024,Sports,,10.0,2418.74,3.33,North,Credit Card,2.0,Not Returned
+ORD-02890,02/03/2023,Electronics,,12.0,5006.52,,South,UPI,,Not Returned
+ORD-01924,12/11/2023,Groceries,Organic Rice,3.0,,37.94,West,Credit Card,,Pending
+ORD-04829,2024-01-17,Groceries,Coffee Beans,5.0,14248.42,,West,Debit Card,4.0,Not Returned
+ORD-02509,2023-05-28,Beauty,Body Wash,10.0,8580.91,,North,UPI,9.0,Not Returned
+ORD-02768,,Home & Kitchen,Dish Rack,9.0,,24.47,,UPI,2.0,Pending
+ORD-00673,30/06/2024,Books,Exam Prep Notes,9999.0,4080.23,9.0,,Credit Card,1.0,Not Returned
+ORD-03908,23/08/2023,,Motivational Reader,7.0,1832.57,,West,Credit Card,12.0,Not Returned
+ORD-03434,20/12/2024,Home & Kitchen,LED Table Lamp,15.0,4888.26,12.4,West,,2.0,Returned
+ORD-00818,,Beauty,Body Wash,15.0,11931.76,9.24,North,UPI,8.0,Not Returned
+ORD-02754,08/07/2024,Beauty,Face Cleanser,12.0,2503.61,25.95,South,Net Banking,14.0,Not Returned
+ORD-00834,2023-11-07,Groceries,Coffee Beans,7.0,3939.5,5.3,East,,,Not Returned
+ORD-03928,2023-04-08,,Chef Knife,4.0,,-11.69,,Debit Card,5.0,
+ORD-01062,2024-09-09,,Protein Bar Pack,,₹4604.91,34.07,West,Credit Card,,Not Returned
+ORD-00979,,Groceries,,14.0,5973.31,20.45,East,Credit Card,11.0,Not Returned
+ORD-01364,2024-01-10,Home & Kitchen,Water Bottle,1.0,"₹10,779.20",25.84,North,UPI,10.0,Not Returned
+ORD-02555,2024-03-09,Sports,Yoga Mat,1500.0,8823.89,18.87,South,Cash on Delivery,13.0,Not Returned
+ORD-02596,20/06/2023,Home & Kitchen,Chef Knife,11.0,12770.1,13.94,Central,Credit Card,7.0,Returned
+ORD-04132,2024-02-21,Electronics,Laptop Stand,,514.35,30.26,,UPI,,Not Returned
+ORD-03100,2024-02-07,Groceries,Olive Oil,15.0,3039.91,35.75,North,,8.0,Not Returned
+ORD-04350,08/05/2023,Clothing,Casual Shirt,13.0,10177.73,13.46,East,UPI,,Not Returned
+ORD-01508,2024-06-03,,Laptop Stand,9.0,"₹10,516.17",3.93,North,Credit Card,10.0,
+ORD-02591,09/04/2024,Groceries,Protein Bar Pack,4.0,,21.01,West,,2.0,Not Returned
+ORD-04561,2024-04-16,Home & Kitchen,Storage Box Set,15.0,6400.92,2.83,,Net Banking,13.0,Returned
+ORD-00033,15/06/2023,Sports,Yoga Mat,9999.0,,30.85,North,UPI,,Not Returned
+ORD-02957,2023-08-15,Beauty,Nail Polish Set,18.0,,6.35,,UPI,1.0,Not Returned
+ORD-04575,2023-11-09,Books,Machine Learning Handbook,,4735.51,25.74,North,Cash on Delivery,6.0,
+ORD-04721,2023-03-20,Groceries,Coffee Beans,12.0,,18.1,East,Net Banking,13.0,Not Returned
+ORD-00085,2023-06-17,Home & Kitchen,Vacuum Flask,,4687.98,15.57,West,UPI,6.0,Not Returned
+ORD-03916,16/10/2024,Books,Motivational Reader,15.0,7995.08,4.69,East,Credit Card,11.0,Not Returned
+ORD-04799,2024-05-01,Clothing,Casual Shirt,11.0,9290.34,1.99,Central,Debit Card,3.0,Not Returned
+ORD-04751,27/08/2023,Beauty,Body Wash,4.0,,16.59,North,UPI,4.0,Not Returned
+ORD-04118,19/10/2024,Clothing,Denim Jeans,2.0,10444.13,13.08,East,Net Banking,15.0,Not Returned
+ORD-03285,,Clothing,Denim Jeans,17.0,1894.33,13.03,North,Net Banking,2.0,Not Returned
+ORD-02235,13/12/2023,,Hair Serum,9999.0,14806.79,10.7,West,Net Banking,10.0,
+ORD-00689,,Clothing,Denim Jeans,1500.0,,25.17,East,Net Banking,,Returned
+ORD-00399,2023-03-15,,Machine Learning Handbook,,9875.29,24.97,South,UPI,,Returned
+ORD-04095,2024-02-17,Books,Fantasy Novel,18.0,14966.29,22.76,South,Debit Card,14.0,Returned
+ORD-01735,,Home & Kitchen,Water Bottle,10.0,8339.06,29.18,South,Cash on Delivery,,Not Returned
+ORD-01444,14/02/2023,Clothing,Casual Shirt,9.0,4309.1,27.77,,UPI,4.0,Returned
+ORD-02538,29/11/2024,,Sunscreen Lotion,7.0,14070.07,36.39,East,UPI,9.0,Returned
+ORD-03382,2023-11-17,Books,Python Programming Guide,4.0,,3.41,South,UPI,10.0,Not Returned
+ORD-03285,11/07/2023,Sports,,2.0,14410.55,5.49,South,Credit Card,13.0,Returned
+ORD-04051,2024-07-21,Beauty,Nail Polish Set,,2998.39,,South,UPI,12.0,Pending
+ORD-03493,2024-06-30,,Vacuum Flask,1200.0,"₹8,193.11",13.47,East,UPI,13.0,Not Returned
+ORD-01575,2024-02-07,,Sports Socks,20.0,371.96,25.58,East,,15.0,Returned
+ORD-04005,04/09/2023,Home & Kitchen,Chef Knife,8.0,,-13.68,South,Debit Card,14.0,Not Returned
+ORD-01594,19/05/2024,,Nail Polish Set,11.0,12179.13,6.03,,UPI,,Not Returned
+ORD-02438,19/07/2024,,Moisturizing Cream,17.0,6763.95,8.93,,UPI,9.0,
+ORD-01696,2024-11-10,Electronics,Wireless Earbuds,,4488.91,28.65,North,UPI,2.0,Not Returned
+ORD-04491,24/01/2023,Home & Kitchen,Vacuum Flask,,11922.27,20.86,West,UPI,3.0,
+ORD-04341,,Groceries,Olive Oil,4.0,4476.11,9.02,South,Debit Card,11.0,
+ORD-01801,2023-06-01,Electronics,Bluetooth Speaker,,13810.59,23.16,West,Credit Card,6.0,Not Returned
+ORD-04259,22/07/2024,Groceries,Green Tea Pack,6.0,13511.8,29.8,North,UPI,1.0,Not Returned
+ORD-02130,2024-03-16,Clothing,Denim Jeans,20.0,13528.11,,West,UPI,7.0,Not Returned
+ORD-02048,2023-10-18,Books,,10.0,5441.02,38.63,Central,Credit Card,6.0,
+ORD-03066,2023-05-15,Sports,Skipping Rope,20.0,13726.8,,,UPI,,Not Returned
+ORD-03788,2024-04-07,Beauty,,20.0,11797.65,7.63,West,UPI,4.0,Returned
+ORD-03017,2024-09-22,Electronics,Bluetooth Speaker,17.0,5971.66,-7.32,East,Net Banking,13.0,Not Returned
+ORD-00175,22/06/2023,Books,Exam Prep Notes,1500.0,7842.81,34.39,Central,UPI,,Not Returned
+ORD-03270,,Clothing,Sports Socks,18.0,9577.38,22.51,Central,UPI,1.0,Not Returned
+ORD-02608,,Groceries,Protein Bar Pack,3000.0,₹ 13454.39,-6.6,,UPI,15.0,Not Returned
+ORD-04474,29/06/2024,Beauty,,12.0,5579.05,23.19,North,UPI,1.0,Not Returned
+ORD-02556,01/11/2024,Books,Exam Prep Notes,9.0,11027.97,0.78,West,Net Banking,,Returned
+ORD-00071,04/04/2024,Groceries,Breakfast Cereal,9999.0,₹825.63,28.26,North,Credit Card,12.0,Not Returned
+ORD-02448,2023-01-12,Home & Kitchen,Vacuum Flask,7.0,₹ 2557.05,37.07,Central,Cash on Delivery,1.0,
+ORD-04798,12/07/2023,Clothing,Jacket,6.0,13135.49,18.29,North,UPI,7.0,Returned
+ORD-02454,2024-12-22,Electronics,Noise Cancelling Headphones,10.0,7733.09,5.42,,Cash on Delivery,13.0,Returned
+ORD-04585,,Sports,Cricket Bat,2.0,,3.87,,Debit Card,4.0,Returned
+ORD-00366,2023-07-13,Clothing,Sports Socks,15.0,8140.89,37.43,South,UPI,15.0,Not Returned
+ORD-03109,2024-01-05,,Running Shorts,18.0,11170.24,10.97,West,,8.0,Not Returned
+ORD-01202,2024-07-14,Beauty,Sunscreen Lotion,4.0,5548.66,32.06,North,Debit Card,,Not Returned
+ORD-00180,2024-10-21,Home & Kitchen,Dish Rack,10.0,11022.34,38.82,,Cash on Delivery,15.0,Returned
+ORD-04441,,,,,"₹10,109.68",30.34,South,Credit Card,15.0,Not Returned
+ORD-02088,2023-07-14,Groceries,Breakfast Cereal,20.0,,,West,UPI,,
+ORD-02952,2023-03-27,Clothing,,,5827.97,16.88,South,UPI,12.0,Not Returned
+ORD-00573,,Home & Kitchen,Storage Box Set,3.0,13099.36,-4.96,Central,Debit Card,,Pending
+ORD-03866,2023-08-06,Home & Kitchen,Dish Rack,3.0,5990.51,9.36,South,UPI,15.0,Not Returned
+ORD-02560,,,Green Tea Pack,2.0,₹ 5971.31,22.4,Central,UPI,,Not Returned
+ORD-00705,2024-02-24,Clothing,Denim Jeans,18.0,10143.24,-5.6,,Credit Card,1.0,Not Returned
+ORD-02846,24/12/2024,Home & Kitchen,Non-stick Pan,13.0,2898.14,0.27,South,Net Banking,15.0,Not Returned
+ORD-01391,2024-08-17,Clothing,,19.0,999.96,20.3,West,Credit Card,9.0,Not Returned
+ORD-02679,2024-03-21,Home & Kitchen,Vacuum Flask,1.0,4143.84,13.96,South,UPI,13.0,Not Returned
+ORD-04714,27/02/2023,Groceries,,4.0,11089.75,28.42,West,,4.0,Not Returned
+ORD-02516,19/03/2023,Clothing,Hoodie,5.0,,13.27,North,UPI,12.0,Not Returned
+ORD-01375,2023-08-21,Groceries,Coffee Beans,17.0,1190.12,,West,UPI,3.0,Not Returned
+ORD-04458,25/11/2024,Home & Kitchen,Chef Knife,,,21.26,North,Credit Card,,Pending
+ORD-02285,23/05/2023,Groceries,Coffee Beans,12.0,2589.8,-2.2,Central,UPI,6.0,Not Returned
+ORD-01319,2023-05-14,Beauty,,,10032.59,38.31,East,Net Banking,14.0,Not Returned
+ORD-04024,28/05/2024,,Gym Gloves,17.0,13385.61,16.01,Central,UPI,,Not Returned
+ORD-03001,2023-12-30,Books,Data Science Workbook,7.0,,,,UPI,3.0,Not Returned
+ORD-04265,17/11/2023,Beauty,Nail Polish Set,,11506.39,16.48,Central,Net Banking,2.0,Not Returned
+ORD-00149,2023-03-28,,Coffee Beans,,11238.02,3.47,Central,Debit Card,5.0,
+ORD-00898,21/09/2023,,Hoodie,7.0,4899.43,32.18,Central,UPI,9.0,Not Returned
+ORD-04339,2023-04-12,Beauty,Sunscreen Lotion,,10481.35,,,UPI,4.0,Not Returned
+ORD-04099,,Beauty,Sunscreen Lotion,7.0,4066.69,28.66,,Debit Card,14.0,Not Returned
+ORD-00925,2024-11-06,Groceries,Coffee Beans,5.0,4590.52,,East,UPI,15.0,
+ORD-02466,17/06/2024,Clothing,Jacket,4.0,₹ 3801.62,27.14,North,Cash on Delivery,1.0,
+ORD-02431,03/04/2023,Beauty,Hair Serum,,"₹6,196.21",7.08,Central,UPI,10.0,Not Returned
+ORD-02364,,Groceries,Coffee Beans,9999.0,,38.04,North,Credit Card,4.0,Not Returned
+ORD-04771,14/05/2024,Sports,,,1441.05,22.61,East,,13.0,
+ORD-02744,2024-02-01,Electronics,Bluetooth Speaker,3000.0,,9.02,West,UPI,9.0,
+ORD-02849,2024-03-04,Clothing,Denim Jeans,3.0,2104.91,7.75,North,,,Not Returned
+ORD-04273,2023-08-17,Beauty,,5.0,,22.8,North,UPI,2.0,Not Returned
+ORD-00098,2023-12-09,Clothing,,,7010.09,13.15,,Debit Card,15.0,Returned
+ORD-01810,2023-01-18,Electronics,Noise Cancelling Headphones,,10179.77,15.18,Central,UPI,10.0,Not Returned
+ORD-03205,,Home & Kitchen,Water Bottle,,2587.57,,South,Net Banking,14.0,Not Returned
+ORD-04687,2024-11-25,,Sunscreen Lotion,9.0,1184.2,38.54,West,Debit Card,9.0,
+ORD-03448,27/03/2024,,,18.0,11798.03,29.36,West,,3.0,
+ORD-02837,,Groceries,Green Tea Pack,7.0,6325.07,11.74,Central,UPI,12.0,Not Returned
+ORD-03632,2023-08-26,Clothing,Cotton T-Shirt,,12975.7,23.72,West,UPI,7.0,Not Returned
+ORD-00527,,Books,Fantasy Novel,11.0,8660.19,5.14,West,Debit Card,12.0,Not Returned
+ORD-00051,2023-05-02,Books,Exam Prep Notes,19.0,2938.7,8.64,Central,,8.0,Pending
+ORD-04606,2024-07-07,,Breakfast Cereal,9.0,5013.4,5.39,East,UPI,11.0,Pending
+ORD-01455,07/12/2024,Groceries,Protein Bar Pack,8.0,1042.21,9.9,East,,10.0,Not Returned
+ORD-02390,2023-12-13,Books,Fantasy Novel,16.0,,7.2,South,UPI,13.0,Not Returned
+ORD-00724,28/01/2024,,Yoga Mat,19.0,6949.13,36.44,West,Credit Card,,Not Returned
+ORD-03718,2024-12-05,Books,Machine Learning Handbook,,14529.63,5.58,South,,13.0,Not Returned
+ORD-00421,2024-02-10,Clothing,Cotton T-Shirt,19.0,810.32,13.0,North,Credit Card,6.0,Not Returned
+ORD-04662,2024-10-15,Groceries,Organic Rice,4.0,5922.27,30.63,North,UPI,,Not Returned
+ORD-01749,20/10/2024,Electronics,Smart Watch,15.0,8641.3,11.29,North,Net Banking,9.0,Returned
+ORD-01619,2024-12-16,Groceries,Protein Bar Pack,11.0,5624.85,33.43,North,Debit Card,,Not Returned
+ORD-02222,2023-02-23,Electronics,USB-C Cable,15.0,15000.0,33.07,South,UPI,14.0,Not Returned
+ORD-04398,2024-03-04,Beauty,Hair Serum,20.0,,29.33,East,,,Not Returned
+ORD-04327,2024-12-06,Groceries,Olive Oil,4.0,10584.03,37.94,East,UPI,15.0,Not Returned
+ORD-04863,31/12/2024,,Organic Rice,3000.0,,-9.31,West,Debit Card,4.0,Not Returned
+ORD-02273,14/02/2023,Books,Machine Learning Handbook,4.0,,21.23,North,Debit Card,2.0,Not Returned
+ORD-03206,2024-10-01,Clothing,,1.0,12264.17,0.41,,UPI,,Not Returned
+ORD-01498,2023-11-05,Sports,Football,6.0,7720.54,,East,UPI,15.0,Returned
+ORD-00035,22/11/2023,Sports,Skipping Rope,12.0,5036.76,36.53,Central,,10.0,Not Returned
+ORD-03087,2023-02-24,Beauty,Lip Balm,,2412.13,36.09,East,UPI,13.0,Not Returned
+ORD-01710,2023-09-05,Books,Fantasy Novel,20.0,9249.47,20.54,West,,12.0,Not Returned
+ORD-00007,17/07/2024,Home & Kitchen,,7.0,680.21,1.56,East,UPI,15.0,Not Returned
+ORD-01360,2023-02-02,Beauty,Nail Polish Set,,9790.28,11.46,Central,Cash on Delivery,,Not Returned
+ORD-02893,15/10/2023,Clothing,Sports Socks,4.0,7245.36,-11.5,West,Debit Card,10.0,Returned
+ORD-01857,2024-11-22,Electronics,USB-C Cable,,10887.02,9.15,West,UPI,10.0,Not Returned
+ORD-01071,2023-12-17,Electronics,,19.0,,37.62,North,Credit Card,13.0,Not Returned
+ORD-00782,2024-08-12,Clothing,Casual Shirt,12.0,6763.07,7.27,Central,Credit Card,1.0,
+ORD-00530,14/09/2024,Beauty,Face Cleanser,1.0,804.89,-14.49,Central,UPI,7.0,Not Returned
+ORD-04325,15/04/2023,Beauty,Body Wash,5.0,,,Central,UPI,5.0,Not Returned
+ORD-02986,2023-04-13,Beauty,Hair Serum,13.0,,37.09,,Credit Card,,Not Returned
+ORD-03409,2024-10-13,,Nail Polish Set,19.0,13947.42,34.77,,,12.0,Not Returned
+ORD-00609,2024-07-26,Electronics,,20.0,13638.68,0.22,West,UPI,8.0,Returned
+ORD-04489,2024-12-05,,Wireless Earbuds,19.0,9517.27,2.52,West,Credit Card,3.0,Not Returned
+ORD-04573,,,,2.0,11602.57,35.49,West,UPI,,Not Returned
+ORD-04062,2024-06-28,Electronics,Wireless Earbuds,15.0,1234.2,0.41,North,Credit Card,4.0,Not Returned
+ORD-04723,2023-11-04,Groceries,Olive Oil,15.0,1547.01,6.75,West,,,Not Returned
+ORD-02896,10/06/2024,Books,,14.0,8222.4,-2.2,East,UPI,13.0,Pending
+ORD-03161,2024-01-17,Beauty,Sunscreen Lotion,20.0,7060.83,5.7,North,UPI,5.0,Not Returned
+ORD-04434,2024-03-23,Beauty,Sunscreen Lotion,3.0,3875.15,9.6,East,,14.0,Not Returned
+ORD-02470,2024-06-20,Books,Motivational Reader,9999.0,9216.56,5.69,West,UPI,13.0,Returned
+ORD-00626,31/05/2023,Groceries,Breakfast Cereal,16.0,"₹11,983.24",35.81,,Debit Card,,Not Returned
+ORD-00973,13/04/2024,Books,Machine Learning Handbook,9.0,8076.56,19.37,Central,UPI,1.0,Not Returned
+ORD-03669,,Books,Python Programming Guide,10.0,5753.1,28.32,,,1.0,Not Returned
+ORD-03597,2023-11-22,Groceries,Green Tea Pack,4.0,10490.3,2.77,,Debit Card,,Not Returned
+ORD-02594,2024-12-16,Home & Kitchen,Storage Box Set,,14704.58,22.7,East,Debit Card,,Returned
+ORD-04686,,Electronics,Smart Watch,9.0,13836.76,25.04,Central,UPI,7.0,Not Returned
+ORD-03615,2023-07-23,,Dumbbell Set,14.0,12636.2,6.39,East,UPI,9.0,Not Returned
+ORD-02358,2024-05-04,Sports,Cricket Bat,12.0,10696.83,9.08,East,Credit Card,11.0,Not Returned
+ORD-00650,10/04/2024,Electronics,Laptop Stand,16.0,3369.93,31.37,South,Cash on Delivery,10.0,Not Returned
+ORD-04598,26/12/2024,Beauty,,,10830.33,17.82,East,Debit Card,,Not Returned
+ORD-03574,,Home & Kitchen,Storage Box Set,19.0,11964.84,8.84,Central,UPI,2.0,Pending
+ORD-00485,2023-10-18,Beauty,Hair Serum,,1791.99,11.56,North,Debit Card,2.0,Not Returned
+ORD-02666,2023-04-26,Books,Python Programming Guide,,8548.42,,South,,,Not Returned
+ORD-00572,2023-03-08,Beauty,,6.0,6219.69,35.01,East,,11.0,Returned
+ORD-04837,10/08/2024,Beauty,Sunscreen Lotion,5.0,7156.23,,West,UPI,6.0,Pending
+ORD-00999,05/05/2024,Sports,Football,12.0,2983.55,38.62,Central,Credit Card,2.0,Not Returned
+ORD-02527,07/07/2024,Groceries,Pasta Bundle,4.0,6303.59,36.64,,Net Banking,5.0,Not Returned
+ORD-01550,2024-01-24,Electronics,Smartphone Charger,20.0,₹ 12581.03,,,UPI,13.0,Not Returned
+ORD-02571,23/03/2023,Sports,Cricket Bat,1500.0,,26.1,,,12.0,Not Returned
+ORD-03731,22/09/2024,Beauty,Sunscreen Lotion,12.0,₹ 2882.79,16.05,North,UPI,10.0,Not Returned
+ORD-00650,2024-03-19,Home & Kitchen,Storage Box Set,,3716.05,5.54,,Credit Card,4.0,Not Returned
+ORD-00780,2023-11-03,Groceries,Green Tea Pack,,1014.59,24.52,,,4.0,Not Returned
+ORD-01097,,Beauty,Moisturizing Cream,16.0,12594.61,29.07,West,UPI,,
+ORD-03450,12/01/2024,,,8.0,14366.7,17.71,South,Credit Card,15.0,Returned
+ORD-04293,17/11/2023,,Dish Rack,20.0,"₹4,300.61",3.21,West,UPI,2.0,Returned
+ORD-00142,21/09/2024,Sports,Yoga Mat,2.0,1658.07,12.14,West,Net Banking,,Not Returned
+ORD-04541,2023-12-12,Beauty,Nail Polish Set,12.0,8820.65,33.01,Central,Credit Card,4.0,Not Returned
+ORD-01698,2023-11-17,Books,Data Science Workbook,18.0,12267.44,25.08,East,,14.0,
+ORD-01715,2024-07-13,Electronics,USB-C Cable,14.0,₹472.80,25.35,Central,Cash on Delivery,1.0,Not Returned
+ORD-01305,16/09/2024,Clothing,Hoodie,2.0,,-6.82,Central,Net Banking,6.0,Not Returned
+ORD-00209,20/11/2023,Home & Kitchen,Vacuum Flask,19.0,1667.78,,,Debit Card,6.0,
+ORD-03113,29/05/2023,,Cotton T-Shirt,13.0,11972.99,23.04,North,Credit Card,7.0,Not Returned
+ORD-02835,20/01/2023,Clothing,Sports Socks,,,8.22,North,,3.0,Returned
+ORD-04559,2023-11-06,Home & Kitchen,LED Table Lamp,5.0,10387.18,,North,Credit Card,1.0,Not Returned
+ORD-03879,31/03/2023,Groceries,Coffee Beans,11.0,1987.71,2.95,Central,Credit Card,11.0,Not Returned
+ORD-03011,2024-01-03,Beauty,Face Cleanser,20.0,10298.15,18.06,West,UPI,5.0,Not Returned
+ORD-02937,2024-07-07,Electronics,Smartphone Charger,9.0,13985.69,25.33,South,Debit Card,14.0,
+ORD-01798,10/06/2023,Groceries,Breakfast Cereal,1.0,9525.02,7.44,Central,UPI,1.0,Not Returned
+ORD-01081,22/12/2024,Sports,Dumbbell Set,1200.0,1574.2,26.95,East,Cash on Delivery,12.0,Not Returned
+ORD-00460,2024-07-26,Groceries,,4.0,,26.59,East,Net Banking,15.0,
+ORD-03437,14/05/2024,,Tennis Racquet,,12860.72,23.84,North,Net Banking,3.0,Not Returned
+ORD-00036,29/04/2024,Groceries,Olive Oil,,14271.46,,West,UPI,11.0,Not Returned
+ORD-00534,23/12/2024,,,17.0,5514.55,,South,UPI,13.0,
+ORD-01915,2023-08-17,Groceries,Coffee Beans,10.0,3897.76,5.67,North,Credit Card,10.0,Not Returned
+ORD-04825,16/10/2023,Home & Kitchen,LED Table Lamp,4.0,10821.23,33.7,South,Credit Card,14.0,Not Returned
+ORD-01284,2024-12-05,,Jacket,1200.0,8667.62,0.44,West,Credit Card,7.0,
+ORD-02950,01/08/2023,,,14.0,5486.07,-2.54,Central,Cash on Delivery,8.0,Not Returned
+ORD-00141,,Electronics,Bluetooth Speaker,15.0,15000.0,,West,Net Banking,2.0,Not Returned
+ORD-01036,,Sports,Tennis Racquet,5.0,,39.3,West,UPI,,Not Returned
+ORD-04806,2023-07-24,,,12.0,13213.75,-8.85,East,UPI,14.0,Not Returned
+ORD-03608,21/08/2023,Home & Kitchen,Dish Rack,9.0,10423.1,8.12,Central,Debit Card,5.0,Not Returned
+ORD-03914,2023-06-04,Books,Python Programming Guide,11.0,4003.62,27.96,West,Debit Card,6.0,Returned
+ORD-02153,,,Noise Cancelling Headphones,6.0,,1.32,South,UPI,13.0,Not Returned
+ORD-03311,,Electronics,Wireless Earbuds,8.0,2616.89,23.81,South,UPI,15.0,Returned
+ORD-00586,26/10/2023,Sports,,9999.0,8961.05,17.46,West,Credit Card,9.0,Not Returned
+ORD-04492,2023-04-15,Home & Kitchen,LED Table Lamp,2.0,,39.77,East,Credit Card,14.0,Not Returned
+ORD-01777,16/04/2024,Books,Motivational Reader,9.0,₹10727.86,10.2,West,UPI,8.0,Returned
+ORD-04783,2023-11-13,Books,Python Programming Guide,10.0,1551.11,33.37,,Debit Card,15.0,Not Returned
+ORD-00837,2023-10-27,Groceries,Green Tea Pack,2.0,2686.52,37.02,,Net Banking,4.0,Not Returned
+ORD-01093,06/06/2024,Sports,Gym Gloves,3.0,12304.55,38.23,South,Credit Card,9.0,Not Returned
+ORD-02066,2024-08-12,Clothing,Casual Shirt,4.0,2987.18,-6.58,North,Cash on Delivery,7.0,Not Returned
+ORD-03435,,Beauty,Moisturizing Cream,3.0,,18.58,South,Debit Card,14.0,Pending
+ORD-03121,2024-04-24,Beauty,Sunscreen Lotion,4.0,,30.28,North,Debit Card,,Not Returned
+ORD-00017,2024-04-10,Sports,Football,4.0,,1.12,West,UPI,,Not Returned
+ORD-01893,2024-09-24,Home & Kitchen,Storage Box Set,2500.0,9238.76,38.91,East,UPI,11.0,Not Returned
+ORD-02827,2023-12-08,Groceries,Olive Oil,17.0,10529.41,13.25,East,UPI,13.0,Not Returned
+ORD-00775,25/05/2023,,Gym Gloves,2500.0,13908.61,2.85,,Cash on Delivery,15.0,Not Returned
+ORD-00576,2024-02-19,Books,,4.0,5911.9,38.22,South,UPI,11.0,
+ORD-00063,18/03/2024,Sports,Skipping Rope,20.0,4709.09,3.94,East,Credit Card,12.0,Not Returned
+ORD-02042,02/10/2023,Clothing,,3.0,1751.84,31.86,West,Cash on Delivery,11.0,Not Returned
+ORD-02444,2024-11-24,,Hair Serum,5.0,9169.1,39.07,East,UPI,11.0,Not Returned
+ORD-00268,2024-06-22,Beauty,Face Cleanser,2.0,12662.08,,North,,1.0,Not Returned
+ORD-01971,07/02/2024,Beauty,,,160.01,30.5,North,Debit Card,3.0,Not Returned
+ORD-01642,2023-07-30,Books,,4.0,,39.5,Central,,,Not Returned
+ORD-04720,29/06/2024,Sports,Gym Gloves,10.0,12191.38,5.42,North,UPI,6.0,Not Returned
+ORD-01000,,Books,,1500.0,4143.34,7.97,Central,Cash on Delivery,7.0,Not Returned
+ORD-02184,,Home & Kitchen,Non-stick Pan,17.0,13622.66,17.43,East,Credit Card,,Pending
+ORD-01699,2024-12-13,Beauty,Sunscreen Lotion,15.0,8193.59,5.58,Central,,1.0,Not Returned
+ORD-01202,31/12/2024,Books,Machine Learning Handbook,,9704.51,31.45,West,Credit Card,3.0,Pending
+ORD-03569,27/05/2023,Sports,Cricket Bat,15.0,8433.06,8.19,South,Credit Card,13.0,
+ORD-00740,03/08/2024,Sports,Gym Gloves,14.0,,18.89,Central,Credit Card,2.0,Not Returned
+ORD-01934,2023-06-06,Clothing,Hoodie,11.0,,36.71,,UPI,,Not Returned
+ORD-04637,2023-06-22,Beauty,Nail Polish Set,3.0,1003.69,9.21,North,UPI,5.0,Not Returned
+ORD-00912,2024-10-11,Clothing,Jacket,16.0,13702.16,39.59,South,Credit Card,15.0,
+ORD-04436,2024-11-02,Sports,Football,3.0,,25.83,South,UPI,14.0,Not Returned
+ORD-02014,2023-04-11,Home & Kitchen,Water Bottle,11.0,2029.92,34.9,South,,13.0,Not Returned
+ORD-03257,2024-02-29,,Coffee Beans,,3114.38,-12.11,West,UPI,6.0,
+ORD-04496,29/10/2024,Sports,Gym Gloves,11.0,5835.69,39.22,North,Cash on Delivery,1.0,
+ORD-01115,18/12/2024,Home & Kitchen,Non-stick Pan,18.0,12615.79,36.53,Central,Net Banking,6.0,Returned
+ORD-03523,02/07/2024,Home & Kitchen,Vacuum Flask,12.0,11257.53,36.25,Central,Net Banking,1.0,Pending
+ORD-04016,18/05/2024,Electronics,Bluetooth Speaker,2.0,11399.56,24.0,,Net Banking,8.0,Not Returned
+ORD-03052,2024-02-03,,,9.0,7510.99,,East,Net Banking,13.0,Not Returned
+ORD-04635,14/11/2024,,Smart Watch,8.0,3262.83,19.49,West,Debit Card,6.0,Pending
+ORD-04422,2023-09-13,Books,History Reference Book,18.0,471.09,,East,Debit Card,13.0,
+ORD-00193,2023-06-10,Beauty,Body Wash,2500.0,14297.13,33.33,East,Credit Card,,Not Returned
+ORD-02801,2023-03-16,Home & Kitchen,Vacuum Flask,4.0,3596.42,,,Debit Card,1.0,Returned
+ORD-01867,28/09/2024,Clothing,Hoodie,8.0,1182.48,10.24,South,,11.0,Not Returned
+ORD-03810,12/03/2023,Home & Kitchen,Chef Knife,3000.0,6965.93,13.45,West,UPI,7.0,Not Returned
+ORD-02786,2024-06-04,Books,Fantasy Novel,5.0,,14.95,West,Net Banking,12.0,Pending
+ORD-04487,2023-05-22,Books,Fantasy Novel,1.0,487.13,21.8,East,UPI,,Not Returned
+ORD-00556,2023-12-24,Clothing,Denim Jeans,1.0,3459.08,,West,Debit Card,11.0,
+ORD-00192,17/10/2024,Home & Kitchen,Storage Box Set,7.0,,,East,Debit Card,13.0,Not Returned
+ORD-00049,2024-12-16,Clothing,Jacket,8.0,4845.04,13.54,West,,2.0,Not Returned
+ORD-04508,10/03/2023,Books,History Reference Book,5.0,,24.37,East,Debit Card,,Not Returned
+ORD-03748,04/01/2024,Books,Fantasy Novel,19.0,,10.66,,Net Banking,15.0,Returned
+ORD-03622,2024-09-27,Sports,Skipping Rope,11.0,12757.46,,South,Cash on Delivery,15.0,Not Returned
+ORD-03853,2023-05-12,Groceries,Breakfast Cereal,15.0,10997.1,32.52,East,UPI,13.0,Not Returned
+ORD-00858,2023-05-28,Groceries,Breakfast Cereal,12.0,,16.59,West,Credit Card,5.0,Not Returned
+ORD-03746,2023-09-05,Groceries,Protein Bar Pack,,13253.7,18.26,South,UPI,10.0,Returned
+ORD-04387,2024-08-22,,Face Cleanser,4.0,6099.43,30.34,West,Debit Card,,Returned
+ORD-03921,2023-11-22,,Lip Balm,3.0,9594.28,34.15,South,UPI,12.0,Not Returned
+ORD-04103,08/12/2024,Books,Machine Learning Handbook,18.0,7329.91,-6.43,East,Cash on Delivery,,Not Returned
+ORD-02884,2023-11-19,Sports,Skipping Rope,1500.0,10603.49,35.92,West,UPI,8.0,Not Returned
+ORD-03560,2023-02-13,Books,,4.0,13100.65,0.65,South,UPI,15.0,Not Returned
+ORD-00603,2024-09-01,Books,Python Programming Guide,11.0,10976.94,22.49,Central,UPI,6.0,Not Returned
+ORD-04523,25/08/2023,Sports,,,4287.35,31.74,East,Cash on Delivery,10.0,Returned
+ORD-04442,25/09/2023,Sports,Tennis Racquet,16.0,11926.16,0.6,North,Credit Card,5.0,Not Returned
+ORD-01942,23/08/2023,Home & Kitchen,LED Table Lamp,18.0,4537.96,29.49,,Debit Card,15.0,Not Returned
+ORD-01527,2023-06-29,Beauty,Moisturizing Cream,4.0,,13.84,South,Debit Card,9.0,Not Returned
+ORD-02740,2024-01-11,,Organic Rice,12.0,"₹10,741.63",7.6,,Net Banking,14.0,Not Returned
+ORD-01068,2024-01-16,Sports,,9.0,14680.41,,,UPI,13.0,
+ORD-00522,2024-11-07,,Tennis Racquet,7.0,6344.41,-6.87,North,Debit Card,3.0,Pending
+ORD-02284,03/09/2024,Home & Kitchen,Chef Knife,15.0,7965.76,11.75,South,Cash on Delivery,,Not Returned
+ORD-01136,2024-05-19,Sports,,,8821.49,19.6,South,,10.0,Returned
+ORD-00932,13/07/2024,Groceries,,18.0,7339.95,25.62,North,Credit Card,9.0,Not Returned
+ORD-01983,08/12/2023,Books,Fantasy Novel,1200.0,1157.51,36.25,Central,UPI,7.0,Not Returned
+ORD-01173,2024-12-21,Home & Kitchen,LED Table Lamp,2.0,4739.78,,,Credit Card,,Not Returned
+ORD-00970,2024-07-16,Home & Kitchen,Storage Box Set,14.0,14630.81,33.68,West,Net Banking,7.0,Returned
+ORD-00990,,Beauty,Body Wash,15.0,6148.88,-0.83,Central,Debit Card,1.0,Not Returned
+ORD-01421,15/08/2024,Books,Motivational Reader,16.0,13289.8,38.51,West,Debit Card,,Not Returned
+ORD-02769,2023-12-02,Home & Kitchen,Dish Rack,4.0,,3.35,West,Debit Card,1.0,
+ORD-04046,,Clothing,Hoodie,,12983.32,,North,Cash on Delivery,6.0,
+ORD-00111,2024-02-25,Beauty,Lip Balm,,2627.99,11.58,West,Debit Card,2.0,Returned
+ORD-01604,2023-03-09,Electronics,Smart Watch,14.0,7999.02,,Central,Debit Card,11.0,Returned
+ORD-02519,2023-08-31,,Running Shorts,,3021.97,,Central,Debit Card,2.0,Returned
+ORD-03570,05/02/2023,Electronics,USB-C Cable,9.0,12061.65,11.68,North,Net Banking,,Not Returned
+ORD-00165,22/01/2023,,Nail Polish Set,20.0,,,,UPI,14.0,
+ORD-01873,2023-07-17,Home & Kitchen,Dish Rack,1.0,3701.64,14.87,Central,UPI,1.0,Returned
+ORD-01425,2023-11-16,Beauty,Nail Polish Set,18.0,9406.54,-13.61,Central,Cash on Delivery,,Not Returned
+ORD-02482,,Clothing,,1.0,3742.29,-8.75,Central,UPI,2.0,
+ORD-02136,2023-03-27,Clothing,Cotton T-Shirt,16.0,,39.7,North,,11.0,
+ORD-04290,10/06/2023,Sports,Cricket Bat,,13559.37,,West,Debit Card,8.0,Not Returned
+ORD-03011,14/05/2023,Home & Kitchen,Dish Rack,4.0,1497.0,,East,Credit Card,14.0,Pending
+ORD-04072,2023-08-04,Books,Data Science Workbook,12.0,1966.1,38.85,East,UPI,10.0,Not Returned
+ORD-02578,2024-07-16,,Wireless Earbuds,1.0,,27.73,East,UPI,,
+ORD-02307,2023-05-02,Beauty,,16.0,6496.11,23.35,North,Debit Card,7.0,Not Returned
+ORD-01525,,Electronics,USB-C Cable,8.0,4651.84,14.85,South,Debit Card,15.0,Returned
+ORD-03685,2024-03-22,Clothing,Running Shorts,17.0,13070.09,34.4,,Debit Card,12.0,
+ORD-02227,27/10/2023,,Casual Shirt,6.0,1798.59,23.93,South,Credit Card,,Not Returned
+ORD-03967,2024-05-29,Home & Kitchen,Storage Box Set,15.0,10472.93,28.61,,Debit Card,,Not Returned
+ORD-00281,2023-07-27,Beauty,Sunscreen Lotion,1.0,3815.18,,,Debit Card,3.0,Not Returned
+ORD-00257,2023-12-26,Groceries,Green Tea Pack,4.0,4108.62,,North,Credit Card,12.0,
+ORD-02588,,Sports,Football,5.0,15000.0,12.66,,Credit Card,7.0,
+ORD-02352,2024-08-19,Clothing,,,1688.67,,South,Debit Card,13.0,Not Returned
+ORD-04129,2023-02-14,,,1200.0,11384.95,4.13,North,Net Banking,1.0,Not Returned
+ORD-00482,2024-09-29,Clothing,,14.0,,26.13,East,UPI,9.0,Pending
+ORD-00263,,Books,Machine Learning Handbook,6.0,,,South,UPI,13.0,Pending
+ORD-03764,23/03/2023,Books,History Reference Book,20.0,,9.79,South,Cash on Delivery,,Not Returned
+ORD-04727,2023-10-02,Books,Exam Prep Notes,12.0,9624.83,32.84,South,,14.0,Not Returned
+ORD-01889,2023-03-15,Beauty,Hair Serum,10.0,,13.61,Central,Net Banking,3.0,Not Returned
+ORD-04618,2024-12-01,Sports,,2.0,5814.72,27.97,East,Net Banking,14.0,Not Returned
+ORD-04675,30/12/2023,,Vacuum Flask,2500.0,"₹9,326.96",,,UPI,12.0,
+ORD-01895,28/01/2023,Sports,Yoga Mat,9.0,10978.26,23.65,West,Credit Card,5.0,Not Returned
+ORD-00160,,Sports,Gym Gloves,20.0,,,South,Credit Card,14.0,
+ORD-03009,2024-03-01,Home & Kitchen,LED Table Lamp,12.0,4475.84,39.27,East,Cash on Delivery,15.0,Not Returned
+ORD-04674,2023-11-22,Electronics,USB-C Cable,2500.0,"₹4,732.82",,Central,Credit Card,4.0,
+ORD-03078,09/08/2023,Clothing,Denim Jeans,13.0,7421.35,39.15,North,Net Banking,3.0,Returned
+ORD-04795,03/02/2024,Books,Machine Learning Handbook,5.0,12049.17,28.05,South,UPI,9.0,Not Returned
+ORD-04481,,Books,Fantasy Novel,6.0,4845.59,30.5,West,Credit Card,3.0,Not Returned
+ORD-04336,2024-12-06,Books,Exam Prep Notes,,465.84,28.56,East,UPI,15.0,Not Returned
+ORD-04834,2024-06-06,Sports,Football,3.0,,1.78,North,Credit Card,10.0,Not Returned
+ORD-04820,28/12/2024,Sports,Cricket Bat,1.0,13264.71,9.54,Central,UPI,13.0,Not Returned
+ORD-03006,15/08/2023,,Breakfast Cereal,,"₹8,152.48",33.06,North,UPI,1.0,Not Returned
+ORD-03661,2023-02-23,Home & Kitchen,Chef Knife,7.0,1594.43,16.5,West,Credit Card,11.0,Not Returned
+ORD-00949,14/03/2023,Groceries,Green Tea Pack,11.0,5979.95,30.66,South,Credit Card,13.0,Pending
+ORD-04580,2023-01-13,Groceries,Organic Rice,,6878.81,28.21,South,,15.0,Not Returned
+ORD-02152,2024-08-26,,Cotton T-Shirt,16.0,2191.36,13.12,South,Credit Card,12.0,Not Returned
+ORD-04477,22/07/2024,Sports,Yoga Mat,12.0,13792.14,27.13,,Credit Card,,Not Returned
+ORD-03165,2023-11-27,,Storage Box Set,20.0,10439.55,10.31,,Credit Card,5.0,Not Returned
+ORD-04315,08/08/2024,Electronics,Smart Watch,13.0,,2.3,Central,UPI,12.0,Not Returned
+ORD-02766,17/05/2024,,,1.0,13117.14,,Central,UPI,5.0,Pending
+ORD-00475,2023-01-25,Beauty,Body Wash,18.0,2766.58,20.12,West,Cash on Delivery,3.0,Not Returned
+ORD-04068,08/07/2023,Beauty,,9.0,"₹8,215.50",,East,Debit Card,14.0,Pending
+ORD-00201,28/08/2024,Clothing,Jacket,,8216.35,,South,Cash on Delivery,13.0,
+ORD-04618,2024-01-29,Groceries,,2.0,10350.23,20.65,East,Debit Card,12.0,Returned
+ORD-00304,2023-04-28,Home & Kitchen,Storage Box Set,3.0,9322.81,36.04,North,Debit Card,2.0,Not Returned
+ORD-01707,,Beauty,Nail Polish Set,10.0,2217.24,15.85,South,Debit Card,11.0,Returned
+ORD-04616,2023-07-17,,,,8925.21,21.76,,Debit Card,12.0,Returned
+ORD-02176,2024-12-30,Books,Fantasy Novel,1500.0,234.21,,Central,Credit Card,7.0,Not Returned
+ORD-02012,09/01/2023,Clothing,Jacket,20.0,3870.3,38.98,West,Debit Card,3.0,Not Returned
+ORD-03621,2024-04-16,,Cricket Bat,6.0,₹ 412.80,30.79,,UPI,14.0,Returned
+ORD-00031,,Books,Fantasy Novel,19.0,,1.4,Central,Credit Card,,
+ORD-04131,2024-01-30,Sports,,7.0,3634.81,0.93,Central,,9.0,
+ORD-04310,2023-05-25,Beauty,Hair Serum,,3932.71,20.62,,,12.0,Not Returned
+ORD-01273,2024-05-10,Groceries,Olive Oil,14.0,12306.62,30.61,East,Debit Card,,Returned
+ORD-01639,,Home & Kitchen,,7.0,,35.42,West,Net Banking,,Not Returned
+ORD-01061,2024-11-17,Electronics,Smart Watch,,₹ 9881.34,16.72,West,Cash on Delivery,8.0,Not Returned
+ORD-02302,2023-06-05,Groceries,Coffee Beans,,9352.96,26.84,,UPI,9.0,
+ORD-04654,2023-09-20,Beauty,,12.0,62.86,16.32,East,UPI,14.0,Not Returned
+ORD-03850,2024-09-20,Groceries,Green Tea Pack,13.0,9746.68,3.02,East,Debit Card,10.0,Not Returned
+ORD-01567,08/12/2024,Beauty,Lip Balm,,7964.07,33.02,East,Net Banking,15.0,Not Returned
+ORD-00924,2024-11-10,Electronics,USB-C Cable,20.0,,15.53,East,Debit Card,14.0,Pending
+ORD-01744,2023-10-31,Sports,Tennis Racquet,,,3.3,South,,12.0,
+ORD-00113,2024-07-03,Electronics,Noise Cancelling Headphones,1500.0,12212.96,33.82,North,UPI,5.0,Not Returned
+ORD-02224,2024-05-08,Groceries,Protein Bar Pack,2.0,7821.71,14.68,North,UPI,11.0,Not Returned
+ORD-04354,2024-02-15,,Football,18.0,7461.38,8.33,Central,Cash on Delivery,1.0,Returned
+ORD-03932,2023-05-17,Home & Kitchen,,,10655.94,1.63,Central,Debit Card,1.0,Not Returned
+ORD-01397,21/02/2023,Clothing,Casual Shirt,18.0,4666.68,19.58,North,UPI,4.0,Not Returned
+ORD-02790,2023-03-13,Sports,Dumbbell Set,17.0,1692.08,19.86,East,Debit Card,13.0,Not Returned
+ORD-03665,2023-11-10,,Vacuum Flask,13.0,2287.18,31.17,North,Cash on Delivery,10.0,Not Returned
+ORD-01933,2023-01-24,Groceries,Breakfast Cereal,,12110.55,23.32,North,,8.0,Returned
+ORD-01824,01/11/2024,Clothing,Jacket,7.0,1147.97,7.97,Central,UPI,14.0,Not Returned
+ORD-00393,2023-03-08,Electronics,Bluetooth Speaker,11.0,328.17,,East,Debit Card,13.0,
+ORD-03961,14/08/2023,Beauty,Moisturizing Cream,4.0,₹1206.90,19.66,West,Debit Card,,
+ORD-00543,2024-02-22,Clothing,Sports Socks,13.0,,28.86,West,UPI,3.0,Not Returned
+ORD-02650,2023-03-04,Sports,,19.0,1355.7,22.54,Central,UPI,7.0,Returned
